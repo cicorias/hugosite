@@ -8,6 +8,10 @@ paginate = 15
 [permalinks]
   post = '/:slug/'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
   [[menu.main]]
     name = 'Home'
