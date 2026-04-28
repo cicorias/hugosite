@@ -1,0 +1,65 @@
+{{/* More Posts grid: shows 4 adjacent posts with thumbnails */}}
+{{ $allPosts := sort (where .Site.RegularPages "Section" "post") "Date" "desc" }}
+{{ $total := len $allPosts }}
+
+{{ if gt $total 1 }}
+  {{/* Find current post index */}}
+  {{ $currentIndex := -1 }}
+  {{ range $i, $p := $allPosts }}
+    {{ if eq $p.Permalink $.Permalink }}
+      {{ $currentIndex = $i }}
+    {{ end }}
+  {{ end }}
+
+  {{ if ge $currentIndex 0 }}
+    {{/* Determine which posts to show */}}
+    {{ $neighbors := slice }}
+
+    {{ if eq $currentIndex 0 }}
+      {{/* Latest post: show the prior 4 */}}
+      {{ range $i, $p := $allPosts }}
+        {{ if and (ge $i 1) (le $i 4) }}
+          {{ $neighbors = $neighbors | append $p }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{/* Older post: 2 newer + 2 older */}}
+      {{ $start := sub $currentIndex 2 }}
+      {{ if lt $start 0 }}{{ $start = 0 }}{{ end }}
+      {{ $candidates := slice }}
+      {{ range $i, $p := $allPosts }}
+        {{ if and (ge $i $start) (ne $i $currentIndex) }}
+          {{ $candidates = $candidates | append $p }}
+        {{ end }}
+      {{ end }}
+      {{/* Take up to 4 */}}
+      {{ range $i, $p := $candidates }}
+        {{ if lt $i 4 }}
+          {{ $neighbors = $neighbors | append $p }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ if gt (len $neighbors) 0 }}
+    <hr>
+    <h2>More Posts</h2>
+    <div class="more-posts-grid">
+      {{ range $neighbors }}
+      <a href="{{ .RelPermalink }}" class="more-posts-card">
+        <div class="more-posts-thumb">
+          {{ with .Params.feature_image }}
+            <img src="{{ . }}" alt="" loading="lazy">
+          {{ else }}
+            <div class="more-posts-placeholder">📝</div>
+          {{ end }}
+        </div>
+        <div class="more-posts-info">
+          <span class="more-posts-date">{{ .Date.Format "2006/01/02" }}</span>
+          <span class="more-posts-title">{{ .Title | markdownify }}</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  {{ end }}
+{{ end }}

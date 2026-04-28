@@ -15,10 +15,30 @@
 
 <hr>
 
+{{/* Recent posts as thumbnail grid */}}
+<h2>Recent Posts</h2>
+<div class="more-posts-grid">
+  {{ range first 4 (after 1 $pages) }}
+  <a href="{{ .RelPermalink }}" class="more-posts-card">
+    <div class="more-posts-thumb">
+      {{ with .Params.feature_image }}
+        <img src="{{ . }}" alt="" loading="lazy">
+      {{ else }}
+        <div class="more-posts-placeholder">📝</div>
+      {{ end }}
+    </div>
+    <div class="more-posts-info">
+      <span class="more-posts-date">{{ .Date.Format "2006/01/02" }}</span>
+      <span class="more-posts-title">{{ .Title | markdownify }}</span>
+    </div>
+  </a>
+  {{ end }}
+</div>
+
 {{/* Older posts as title list */}}
 <h2>Older Posts</h2>
 <ul>
-  {{ range after 1 $pages }}
+  {{ range after 5 $pages }}
   <li>
     <span class="date">{{ .Date.Format "2006/01/02" }}</span>
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
