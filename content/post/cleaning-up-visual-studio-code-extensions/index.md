@@ -18,7 +18,7 @@ From my experience it helps to keep the Default profile empty as possible. And s
 
 Source is here as well:
 
-![](https://www.cicoria.com/content/images/icon/pinned-octocat-093da3e6fa40-1.svg)
+![](/images/icon/pinned-octocat-093da3e6fa40-1.svg)
 
 ## PowerShell - RemoveExtensions.ps1
 

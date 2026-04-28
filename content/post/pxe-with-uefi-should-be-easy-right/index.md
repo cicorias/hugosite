@@ -5,7 +5,7 @@ lastmod: 2025-08-27T13:12:55+0000
 slug: "pxe-with-uefi-should-be-easy-right"
 summary: "UEFI PXE setup on Ubuntu simplified using scripts, TFTP, DHCP, NFS, HTTP, GRUB, Syslinux, resolving loader handoffs and configuration pitfalls."
 tags: ["bash", "fun", "iot", "shell", "utilities", "vm"]
-feature_image: "https://www.cicoria.com/content/images/2025/08/image.jpg"
+feature_image: "/images/2025/08/image.jpg"
 aliases:
   - /pxe-with-uefi-should-be-easy-right/
 ---

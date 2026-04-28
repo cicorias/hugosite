@@ -3,7 +3,7 @@ title: "Ensuring Initializing and Server Side Configuration with Angular 4+"
 date: 2017-05-31T19:03:59+0000
 lastmod: 2017-05-31T19:07:46+0000
 slug: "ensuring-initializing-and-server-side-configuration-with-angular"
-feature_image: "https://www.cicoria.com/content/images/2017/05/ng.jpg"
+feature_image: "/images/2017/05/ng.jpg"
 aliases:
   - /ensuring-initializing-and-server-side-configuration-with-angular/
 ---

@@ -3,7 +3,7 @@ title: "GigAware and the World Humanitarian Summit - Istanbul Turkey"
 date: 2016-06-05T21:03:33+0000
 lastmod: 2016-06-05T21:45:08+0000
 slug: "gigaware-and-the-world-humanitarian-summit-istanbul-turkey"
-feature_image: "https://www.cicoria.com/content/images/2016/06/CjevhKrUYAETPWr-jpg-large.jpeg"
+feature_image: "/images/2016/06/CjevhKrUYAETPWr-jpg-large.jpeg"
 aliases:
   - /gigaware-and-the-world-humanitarian-summit-istanbul-turkey/
 ---

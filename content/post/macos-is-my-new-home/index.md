@@ -3,7 +3,7 @@ title: "macOS is my new home"
 date: 2016-12-01T00:02:29+0000
 lastmod: 2016-12-01T00:02:29+0000
 slug: "macos-is-my-new-home"
-feature_image: "https://www.cicoria.com/content/images/2016/12/IMG_0178.JPG"
+feature_image: "/images/2016/12/IMG_0178.JPG"
 aliases:
   - /macos-is-my-new-home/
 ---

@@ -4,7 +4,7 @@ date: 2021-07-09T09:40:44+0000
 lastmod: 2021-07-09T09:41:55+0000
 slug: "easily-capture-web-hook-messages-in-storage-with-h"
 tags: ["azure", "cloud", "logic apps"]
-feature_image: "https://www.cicoria.com/content/images/2021/07/Screenshot-2021-07-09-051015.png"
+feature_image: "/images/2021/07/Screenshot-2021-07-09-051015.png"
 aliases:
   - /easily-capture-web-hook-messages-in-storage-with-h/
 ---
@@ -15,7 +15,7 @@ In need of a basic ability to capture each device message that is published acro
 
 What we ended up with is such a basic [Azure Logic App](https://docs.microsoft.com/en-us/azure/logic-apps/) that provides quite a bit of power in just two shapes on the designer.
 
-![](https://www.cicoria.com/content/images/2021/07/Screenshot-2021-07-09-054105.png)
+![](/images/2021/07/Screenshot-2021-07-09-054105.png)
 *Azure Logic App Designer*
 
 The power of these two shapes is that for each HTTP Post Webhook - each file is written to storage using the macro language - as such:

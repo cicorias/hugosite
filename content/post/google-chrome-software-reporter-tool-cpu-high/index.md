@@ -3,7 +3,7 @@ title: "Google Chrome Software Reporter Tool CPU High"
 date: 2020-05-11T14:08:56+0000
 lastmod: 2020-05-11T14:08:56+0000
 slug: "google-chrome-software-reporter-tool-cpu-high"
-feature_image: "https://www.cicoria.com/content/images/2020/05/image-3.png"
+feature_image: "/images/2020/05/image-3.png"
 aliases:
   - /google-chrome-software-reporter-tool-cpu-high/
 ---

@@ -25,5 +25,5 @@ Just go to any place where `curl` or `wget` (or any equivalent) and issue a GET:
 ```bash
 curl wttr.in
 ```
-![weather report](https://www.cicoria.com/content/images/2021/08/cicorias-legion.lan-2021-08-25-12-49-10.jpg)
+![weather report](/images/2021/08/cicorias-legion.lan-2021-08-25-12-49-10.jpg)
 *weather via curl wttr.in*

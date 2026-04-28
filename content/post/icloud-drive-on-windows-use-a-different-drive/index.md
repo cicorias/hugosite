@@ -3,7 +3,7 @@ title: "iCloud drive on Windows - use a different drive."
 date: 2016-07-27T20:59:40+0000
 lastmod: 2016-07-27T20:59:40+0000
 slug: "icloud-drive-on-windows-use-a-different-drive"
-feature_image: "https://www.cicoria.com/content/images/2016/07/icloud-08-700x393.png"
+feature_image: "/images/2016/07/icloud-08-700x393.png"
 aliases:
   - /icloud-drive-on-windows-use-a-different-drive/
 ---

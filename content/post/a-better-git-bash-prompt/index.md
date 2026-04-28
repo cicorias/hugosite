@@ -3,7 +3,7 @@ title: "A better git bash prompt"
 date: 2019-04-11T09:48:46+0000
 lastmod: 2019-04-11T09:48:46+0000
 slug: "a-better-git-bash-prompt"
-feature_image: "https://www.cicoria.com/content/images/2019/04/chris-ried-512801-unsplash2.jpg"
+feature_image: "/images/2019/04/chris-ried-512801-unsplash2.jpg"
 aliases:
   - /a-better-git-bash-prompt/
 ---

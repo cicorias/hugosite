@@ -3,7 +3,7 @@ title: "Code Theater with Ali Hajimirza - Blockchain Solves a Webjet problem"
 date: 2017-05-12T09:29:10+0000
 lastmod: 2017-05-12T09:31:11+0000
 slug: "code-theater-with-ali-hajimirza-blockchain-solves-a-webjet-problem"
-feature_image: "https://www.cicoria.com/content/images/2017/05/chain.jpg"
+feature_image: "/images/2017/05/chain.jpg"
 aliases:
   - /code-theater-with-ali-hajimirza-blockchain-solves-a-webjet-problem/
 ---

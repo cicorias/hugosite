@@ -4,7 +4,7 @@ date: 2022-01-19T14:05:27+0000
 lastmod: 2022-01-19T14:17:13+0000
 slug: "spring-initailizer-from-the-command-line"
 tags: ["spring boot", "java", "kotlin"]
-feature_image: "https://www.cicoria.com/content/images/2022/01/Screenshot-2022-01-19-090110.png"
+feature_image: "/images/2022/01/Screenshot-2022-01-19-090110.png"
 aliases:
   - /spring-initailizer-from-the-command-line/
 ---

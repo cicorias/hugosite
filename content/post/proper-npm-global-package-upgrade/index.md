@@ -3,7 +3,7 @@ title: "Proper npm Global Package Upgrade"
 date: 2016-12-30T16:03:31+0000
 lastmod: 2016-12-30T16:03:31+0000
 slug: "proper-npm-global-package-upgrade"
-feature_image: "https://www.cicoria.com/content/images/2016/12/tokyo-wombat-1200x.jpg"
+feature_image: "/images/2016/12/tokyo-wombat-1200x.jpg"
 aliases:
   - /proper-npm-global-package-upgrade/
 ---

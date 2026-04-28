@@ -3,7 +3,7 @@ title: "Jupyter Notebook auto launch browser from WSL"
 date: 2020-01-24T07:44:04+0000
 lastmod: 2020-01-24T07:44:04+0000
 slug: "jupyter-notebook-launch-browser-from-wsl"
-feature_image: "https://www.cicoria.com/content/images/2020/01/image.png"
+feature_image: "/images/2020/01/image.png"
 aliases:
   - /jupyter-notebook-launch-browser-from-wsl/
 ---

@@ -3,7 +3,7 @@ title: "Visual Studio Code Windows from WSL Bash Ubuntu"
 date: 2018-04-18T15:26:41+0000
 lastmod: 2018-04-18T15:26:41+0000
 slug: "visual-studio-code-windows-from-wsl-bash-ubuntu"
-feature_image: "https://www.cicoria.com/content/images/2018/04/opengraph-home.png"
+feature_image: "/images/2018/04/opengraph-home.png"
 aliases:
   - /visual-studio-code-windows-from-wsl-bash-ubuntu/
 ---

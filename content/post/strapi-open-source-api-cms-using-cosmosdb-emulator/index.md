@@ -3,7 +3,7 @@ title: "Strapi Open Source API CMS using Azure CosmosDB Emulator"
 date: 2018-12-15T22:47:51+0000
 lastmod: 2018-12-15T22:49:10+0000
 slug: "strapi-open-source-api-cms-using-cosmosdb-emulator"
-feature_image: "https://www.cicoria.com/content/images/2018/12/strapi.png"
+feature_image: "/images/2018/12/strapi.png"
 aliases:
   - /strapi-open-source-api-cms-using-cosmosdb-emulator/
 ---

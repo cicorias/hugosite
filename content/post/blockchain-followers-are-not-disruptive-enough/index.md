@@ -3,7 +3,7 @@ title: "Blockchain followers are not Disruptive Enough"
 date: 2017-03-16T03:54:23+0000
 lastmod: 2017-03-16T03:54:23+0000
 slug: "blockchain-followers-are-not-disruptive-enough"
-feature_image: "https://www.cicoria.com/content/images/2017/03/IMG_0179.JPG"
+feature_image: "/images/2017/03/IMG_0179.JPG"
 aliases:
   - /blockchain-followers-are-not-disruptive-enough/
 ---

@@ -5,7 +5,7 @@ lastmod: 2024-05-26T19:45:11+0000
 slug: "integrating-external-git-repositories-git-submodules-vs-git-subtree"
 summary: "Integrate external Git repositories using Git submodules or subtree. This guide covers the steps for both methods and compares their features. Simplify your development workflow and maintain modular codebases by choosing the best approach for your needs, enhancing code reusability and efficiency."
 tags: ["csharp", "git", "code"]
-feature_image: "https://www.cicoria.com/content/images/2024/05/1-AureuyXYDYHHU-jUMv_00A.webp"
+feature_image: "/images/2024/05/1-AureuyXYDYHHU-jUMv_00A.webp"
 aliases:
   - /integrating-external-git-repositories-git-submodules-vs-git-subtree/
 ---

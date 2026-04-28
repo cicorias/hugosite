@@ -4,7 +4,7 @@ date: 2022-08-25T16:51:21+0000
 lastmod: 2022-08-25T16:52:14+0000
 slug: "using-bloboutput-and-eventhubtrigger-bindings-with-system-properties"
 tags: ["azure", "cloud", "java", "functions", "eventhub"]
-feature_image: "https://www.cicoria.com/content/images/2022/08/func-eh.png"
+feature_image: "/images/2022/08/func-eh.png"
 aliases:
   - /using-bloboutput-and-eventhubtrigger-bindings-with-system-properties/
 ---

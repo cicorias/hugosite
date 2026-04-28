@@ -3,7 +3,7 @@ title: "Error: Manually created ServicePrincipalToken does not contain secret ma
 date: 2019-12-07T12:05:25+0000
 lastmod: 2019-12-07T12:05:25+0000
 slug: "error-manually-created-serviceprincipaltoken-does-not-contain-secret-material-to-retrieve-a-new-access-token"
-feature_image: "https://www.cicoria.com/content/images/2019/12/Annotation-2019-12-07-120339.jpg"
+feature_image: "/images/2019/12/Annotation-2019-12-07-120339.jpg"
 aliases:
   - /error-manually-created-serviceprincipaltoken-does-not-contain-secret-material-to-retrieve-a-new-access-token/
 ---

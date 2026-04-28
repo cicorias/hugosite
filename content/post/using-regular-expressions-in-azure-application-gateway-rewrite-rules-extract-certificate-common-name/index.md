@@ -3,7 +3,7 @@ title: "Using regular expressions in Azure Application Gateway Rewrite Rules - e
 date: 2023-04-30T17:05:05+0000
 lastmod: 2023-04-30T18:17:40+0000
 slug: "using-regular-expressions-in-azure-application-gateway-rewrite-rules-extract-certificate-common-name"
-feature_image: "https://www.cicoria.com/content/images/2023/04/blog-hero-homepage-road-traffic-prediction_1000x800.webp"
+feature_image: "/images/2023/04/blog-hero-homepage-road-traffic-prediction_1000x800.webp"
 aliases:
   - /using-regular-expressions-in-azure-application-gateway-rewrite-rules-extract-certificate-common-name/
 ---
@@ -22,7 +22,7 @@ Enabling the forwarding of the certificate information is as easy as setting up 
 
 ### Via the portal
 
-![](https://www.cicoria.com/content/images/2023/04/image-2.png)
+![](/images/2023/04/image-2.png)
 
 ### Via Terraform
 
@@ -124,13 +124,13 @@ For that, Application Gateway supports the use of regular expressions along with
 
 For this, we need to provide a condition, which triggers the regular expression and feeds the match groups to the action.
 
-![](https://www.cicoria.com/content/images/2023/04/image-3.png)
+![](/images/2023/04/image-3.png)
 
 ## Using Terraform
 
 In Terraform, we supply an additional `rewrite_rule` to the `rewrite_rule_set` block in the `resource azurerm_application_gateway` definition as shown below:
 
-![](https://www.cicoria.com/content/images/2023/04/image-4.png)
+![](/images/2023/04/image-4.png)
 
 Here is the Terraform code – note the regular expression is `"CN=(.*?)[,|$]"` for the condition, and for the match group the header value is set to the pattern `{var_serverVariable_#}`  – so for this case it becomes `{var_client_certificate_subject_1}`
 

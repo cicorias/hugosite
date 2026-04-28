@@ -3,7 +3,7 @@ title: "Reverse Engineering Ethstats Agent for a FluentD plugin"
 date: 2017-04-23T22:20:00+0000
 lastmod: 2017-04-23T22:41:04+0000
 slug: "reverse-engineering-ethstats-agent-for-a-fluentd-plugin"
-feature_image: "https://www.cicoria.com/content/images/2017/04/gabriele-diwald-small201135.jpg"
+feature_image: "/images/2017/04/gabriele-diwald-small201135.jpg"
 aliases:
   - /reverse-engineering-ethstats-agent-for-a-fluentd-plugin/
 ---

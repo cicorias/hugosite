@@ -5,7 +5,7 @@ lastmod: 2025-12-22T15:57:48+0000
 slug: "fixing-mise-shims-not-working-in-vs-code-on-ubuntu-avoid-the-snap-build"
 summary: "Fixing mise shims not working in VS Code on Ubuntu: avoid the Snap build "
 tags: ["vscode", "ubuntu", "linux", "snap", "deb", "mise"]
-feature_image: "https://www.cicoria.com/content/images/2025/12/Screenshot-2025-12-22-105547.png"
+feature_image: "/images/2025/12/Screenshot-2025-12-22-105547.png"
 aliases:
   - /fixing-mise-shims-not-working-in-vs-code-on-ubuntu-avoid-the-snap-build/
 ---

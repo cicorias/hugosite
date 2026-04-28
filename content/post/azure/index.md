@@ -3,7 +3,7 @@ title: "Azure DevOps PowerShell Tasks Fail with NativeCommandError RemoteExcepti
 date: 2020-05-08T12:48:13+0000
 lastmod: 2020-05-08T12:48:13+0000
 slug: "azure"
-feature_image: "https://www.cicoria.com/content/images/2020/05/image-1.png"
+feature_image: "/images/2020/05/image-1.png"
 aliases:
   - /azure/
 ---

@@ -3,7 +3,7 @@ title: "Decode Office 365 Safelinks URLs"
 date: 2019-08-01T14:07:19+0000
 lastmod: 2019-08-01T14:07:19+0000
 slug: "decode-office-365-safelinks-urls"
-feature_image: "https://www.cicoria.com/content/images/2019/08/Office-365-Advanced-Threat-Protection--ATP--Demo---Microsoft-Tech-Community---141658-2019-08-01-14-02-51.jpg"
+feature_image: "/images/2019/08/Office-365-Advanced-Threat-Protection--ATP--Demo---Microsoft-Tech-Community---141658-2019-08-01-14-02-51.jpg"
 aliases:
   - /decode-office-365-safelinks-urls/
 ---
@@ -26,4 +26,4 @@ https://nam06.safelinks.protection.outlook.com/?url=https://mybenefits.foobar.co
 
 but you can also use the Office 365 Advanced Threat Protection URL at <http://www.o365atp.com/>
 
-![](https://www.cicoria.com/content/images/2019/08/Office-365-Advanced-Threat-Protectioni-Safe-Links---Link-Decoder-2019-08-01-14-00-54.png)
+![](/images/2019/08/Office-365-Advanced-Threat-Protectioni-Safe-Links---Link-Decoder-2019-08-01-14-00-54.png)

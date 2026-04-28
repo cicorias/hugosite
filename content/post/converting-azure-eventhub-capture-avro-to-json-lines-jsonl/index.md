@@ -5,7 +5,7 @@ lastmod: 2022-03-24T11:06:40+0000
 slug: "converting-azure-eventhub-capture-avro-to-json-lines-jsonl"
 summary: "quickly convert lots of avro files to json using eventhub capture files"
 tags: ["azure", "cloud", "utilities"]
-feature_image: "https://www.cicoria.com/content/images/2022/03/Apache_Avro_Logo.svg"
+feature_image: "/images/2022/03/Apache_Avro_Logo.svg"
 aliases:
   - /converting-azure-eventhub-capture-avro-to-json-lines-jsonl/
 ---

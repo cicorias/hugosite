@@ -3,7 +3,7 @@ title: "Keras Tensor flow CUBLAS_STATUS_NOT_INITIALIZED"
 date: 2018-12-13T22:10:59+0000
 lastmod: 2018-12-13T22:10:59+0000
 slug: "keras-tensor-flow-cublas_status_not_initialized"
-feature_image: "https://www.cicoria.com/content/images/2018/12/image-4.png"
+feature_image: "/images/2018/12/image-4.png"
 aliases:
   - /keras-tensor-flow-cublas_status_not_initialized/
 ---

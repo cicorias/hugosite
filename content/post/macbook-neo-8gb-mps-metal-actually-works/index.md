@@ -5,7 +5,7 @@ lastmod: 2026-03-21T18:47:36+0000
 slug: "macbook-neo-8gb-mps-metal-actually-works"
 summary: "MacBook Neo 8GB supports Metal/MPS and reasonable entry level performance for light loads."
 tags: ["code", "machine learning", "pytorch", "macbook", "macos", "metal", "gpu"]
-feature_image: "https://www.cicoria.com/content/images/2026/03/MacBook-neo-01-20.JPG.webp"
+feature_image: "/images/2026/03/MacBook-neo-01-20.JPG.webp"
 aliases:
   - /macbook-neo-8gb-mps-metal-actually-works/
 ---

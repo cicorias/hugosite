@@ -3,7 +3,7 @@ title: "Carthage and OTP GitHub Errors"
 date: 2016-09-24T16:26:01+0000
 lastmod: 2016-09-24T16:26:01+0000
 slug: "carthage-and-otp-github-errors"
-feature_image: "https://www.cicoria.com/content/images/2016/09/Re--carthage-and-OTP-errors---Inbox-2016-09-24-16-14-49.jpg"
+feature_image: "/images/2016/09/Re--carthage-and-OTP-errors---Inbox-2016-09-24-16-14-49.jpg"
 aliases:
   - /carthage-and-otp-github-errors/
 ---

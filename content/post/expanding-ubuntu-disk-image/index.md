@@ -4,7 +4,7 @@ date: 2022-07-01T22:47:13+0000
 lastmod: 2022-07-01T22:47:13+0000
 slug: "expanding-ubuntu-disk-image"
 tags: ["utilities", "vm"]
-feature_image: "https://www.cicoria.com/content/images/2022/07/ubuntu-logo14.png"
+feature_image: "/images/2022/07/ubuntu-logo14.png"
 aliases:
   - /expanding-ubuntu-disk-image/
 ---

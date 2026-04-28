@@ -3,7 +3,7 @@ title: "Improving Windows Subsystem for Linux WSL by 500% - Minutes to Seconds"
 date: 2018-08-25T10:43:54+0000
 lastmod: 2018-08-25T10:43:54+0000
 slug: "improving-windows-subsystem-for-linux-wsl-by-500-minutes-to-seconds"
-feature_image: "https://www.cicoria.com/content/images/2018/08/image-1.png"
+feature_image: "/images/2018/08/image-1.png"
 aliases:
   - /improving-windows-subsystem-for-linux-wsl-by-500-minutes-to-seconds/
 ---

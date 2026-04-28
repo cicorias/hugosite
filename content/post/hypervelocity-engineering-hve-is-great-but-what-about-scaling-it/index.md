@@ -16,10 +16,10 @@ When we try to understand what is possible now with the tools (HVE) and the peop
 
 A good post from Mark Russinovich, which got me down this quick reminder of my past with so many Enterprise Frameworks, essentially states this as well. Much of these concepts of scale of "code" is credited to Brooks, Zachman, et.al.
 
-![](https://www.cicoria.com/content/images/icon/al2o9zrvru7aqj8e1x2rzsrca)
+![](/images/icon/al2o9zrvru7aqj8e1x2rzsrca)
 
 ## Evolution of a Software Architect
 
 When you look at humans, the idea of evolving over time the span of understanding and the breadth of complexity grows as we go from program → application → solution → enterprise.
 
-![](https://www.cicoria.com/content/images/2026/01/image.png)
+![](/images/2026/01/image.png)

@@ -4,7 +4,7 @@ date: 2022-07-11T16:13:32+0000
 lastmod: 2022-07-11T16:13:32+0000
 slug: "generate-opentelemetry-compliant-traceparent-tracecontext-headers-using-bash"
 tags: ["azure", "bash", "cloud", "utilities"]
-feature_image: "https://www.cicoria.com/content/images/2022/07/ot.jpg"
+feature_image: "/images/2022/07/ot.jpg"
 aliases:
   - /generate-opentelemetry-compliant-traceparent-tracecontext-headers-using-bash/
 ---

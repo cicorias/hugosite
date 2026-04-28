@@ -3,7 +3,7 @@ title: "The Travis CLI in a Container"
 date: 2018-08-05T01:41:19+0000
 lastmod: 2018-08-05T01:41:19+0000
 slug: "the-travis-cli-in-a-container"
-feature_image: "https://www.cicoria.com/content/images/2018/08/image.png"
+feature_image: "/images/2018/08/image.png"
 aliases:
   - /the-travis-cli-in-a-container/
 ---

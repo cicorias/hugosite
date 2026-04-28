@@ -3,7 +3,7 @@ title: "Tensorflow - Suppressing FutureWarning numpy messages in Jupyter Noteboo
 date: 2019-08-12T11:55:41+0000
 lastmod: 2019-08-12T11:55:41+0000
 slug: "tensorflow-suppressing-futurewarning-numpy-messages-in-jupyter-notebooks"
-feature_image: "https://www.cicoria.com/content/images/2019/08/jupyter-squashed.jpg"
+feature_image: "/images/2019/08/jupyter-squashed.jpg"
 aliases:
   - /tensorflow-suppressing-futurewarning-numpy-messages-in-jupyter-notebooks/
 ---

@@ -5,7 +5,7 @@ lastmod: 2024-05-26T19:59:01+0000
 slug: "azure-stream-analytics-updating-a-job-using-a-github-action-to-stop-and-start"
 summary: "Effortlessly deploy Azure Stream Analytics jobs with my TypeScript-based GitHub Action and Azure CLI."
 tags: ["azure", "eventhub", "iot"]
-feature_image: "https://www.cicoria.com/content/images/2024/05/azure-stream-analytics-12.png"
+feature_image: "/images/2024/05/azure-stream-analytics-12.png"
 aliases:
   - /azure-stream-analytics-updating-a-job-using-a-github-action-to-stop-and-start/
 ---

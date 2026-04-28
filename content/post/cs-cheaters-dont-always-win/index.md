@@ -3,7 +3,7 @@ title: "It's always 1 in 5..."
 date: 2016-05-16T13:12:41+0000
 lastmod: 2021-07-01T18:11:13+0000
 slug: "cs-cheaters-dont-always-win"
-feature_image: "https://www.cicoria.com/content/images/2016/05/cult-of-cheating_28_1_20.png"
+feature_image: "/images/2016/05/cult-of-cheating_28_1_20.png"
 aliases:
   - /cs-cheaters-dont-always-win/
 ---

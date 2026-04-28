@@ -3,7 +3,7 @@ title: "Jupyter Lab Build Failures under Wsl shutil.Error [Errno 13] Permission 
 date: 2020-05-10T11:12:25+0000
 lastmod: 2020-05-10T11:12:33+0000
 slug: "post-post"
-feature_image: "https://www.cicoria.com/content/images/2020/05/image-2.png"
+feature_image: "/images/2020/05/image-2.png"
 aliases:
   - /post-post/
 ---

@@ -3,7 +3,7 @@ title: "Windows Update Fail Microsoft-OneCore-DeveloperMode-Desktop-Package Erro
 date: 2018-12-03T12:49:13+0000
 lastmod: 2018-12-03T12:49:13+0000
 slug: "windows-update-fail"
-feature_image: "https://www.cicoria.com/content/images/2018/12/image.png"
+feature_image: "/images/2018/12/image.png"
 aliases:
   - /windows-update-fail/
 ---

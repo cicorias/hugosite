@@ -3,7 +3,7 @@ title: "Docker Compose on Kubernetes - Windows Volume Syntax"
 date: 2018-12-16T16:51:28+0000
 lastmod: 2018-12-16T16:51:28+0000
 slug: "docker-compose-on-kubernetes-windows-volume-syntax"
-feature_image: "https://www.cicoria.com/content/images/2018/12/image-9.png"
+feature_image: "/images/2018/12/image-9.png"
 aliases:
   - /docker-compose-on-kubernetes-windows-volume-syntax/
 ---

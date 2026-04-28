@@ -3,7 +3,7 @@ title: "Just a reminder - adding your user to Docker group..."
 date: 2016-08-15T21:23:21+0000
 lastmod: 2016-08-15T21:23:21+0000
 slug: "just-a-reminder-adding-your-user-to-docker-group"
-feature_image: "https://www.cicoria.com/content/images/2016/08/mac-success.png"
+feature_image: "/images/2016/08/mac-success.png"
 aliases:
   - /just-a-reminder-adding-your-user-to-docker-group/
 ---

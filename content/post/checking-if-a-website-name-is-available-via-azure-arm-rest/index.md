@@ -3,7 +3,7 @@ title: "Checking if a WebSite Name is Available via Azure ARM (REST)"
 date: 2016-06-17T16:22:01+0000
 lastmod: 2016-06-17T16:22:45+0000
 slug: "checking-if-a-website-name-is-available-via-azure-arm-rest"
-feature_image: "https://www.cicoria.com/content/images/2016/06/azure.png"
+feature_image: "/images/2016/06/azure.png"
 aliases:
   - /checking-if-a-website-name-is-available-via-azure-arm-rest/
 ---

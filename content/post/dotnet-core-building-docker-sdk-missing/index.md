@@ -4,7 +4,7 @@ date: 2021-07-01T18:03:42+0000
 lastmod: 2021-07-09T09:44:02+0000
 slug: "dotnet-core-building-docker-sdk-missing"
 tags: ["azure", "cloud", "containers"]
-feature_image: "https://www.cicoria.com/content/images/2021/07/1_MdsKZZDjdYBtRBcBJmj43w.jpeg"
+feature_image: "/images/2021/07/1_MdsKZZDjdYBtRBcBJmj43w.jpeg"
 aliases:
   - /dotnet-core-building-docker-sdk-missing/
 ---

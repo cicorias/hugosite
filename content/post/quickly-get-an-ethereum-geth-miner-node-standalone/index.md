@@ -3,7 +3,7 @@ title: "Quickly get an Ethereum Geth miner node standalone"
 date: 2017-06-02T16:59:17+0000
 lastmod: 2017-06-02T16:59:17+0000
 slug: "quickly-get-an-ethereum-geth-miner-node-standalone"
-feature_image: "https://www.cicoria.com/content/images/2017/06/sean-dubois-5753-compressed.jpg"
+feature_image: "/images/2017/06/sean-dubois-5753-compressed.jpg"
 aliases:
   - /quickly-get-an-ethereum-geth-miner-node-standalone/
 ---

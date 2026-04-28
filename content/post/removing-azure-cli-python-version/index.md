@@ -3,7 +3,7 @@ title: "Removing Azure CLI (Python version)"
 date: 2017-05-12T09:22:17+0000
 lastmod: 2017-05-12T09:22:17+0000
 slug: "removing-azure-cli-python-version"
-feature_image: "https://www.cicoria.com/content/images/2017/05/python.jpg"
+feature_image: "/images/2017/05/python.jpg"
 aliases:
   - /removing-azure-cli-python-version/
 ---

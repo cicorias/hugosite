@@ -4,7 +4,7 @@ date: 2022-08-03T18:24:46+0000
 lastmod: 2022-08-03T18:30:54+0000
 slug: "scala-using-with-opentelemetry-span-to-automatically-end-the-span-block"
 tags: ["opentelemetry", "scala", "instrumentation", "observability"]
-feature_image: "https://www.cicoria.com/content/images/2022/08/Untitled-1.png"
+feature_image: "/images/2022/08/Untitled-1.png"
 aliases:
   - /scala-using-with-opentelemetry-span-to-automatically-end-the-span-block/
 ---

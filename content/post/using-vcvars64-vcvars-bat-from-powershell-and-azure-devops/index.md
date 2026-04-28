@@ -3,7 +3,7 @@ title: "Using vcvars64 vcvars.bat from PowerShell and Azure Devops"
 date: 2020-05-05T16:44:54+0000
 lastmod: 2020-05-08T10:52:30+0000
 slug: "using-vcvars64-vcvars-bat-from-powershell-and-azure-devops"
-feature_image: "https://www.cicoria.com/content/images/2020/05/image.png"
+feature_image: "/images/2020/05/image.png"
 aliases:
   - /using-vcvars64-vcvars-bat-from-powershell-and-azure-devops/
 ---

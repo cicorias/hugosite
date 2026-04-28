@@ -3,7 +3,7 @@ title: "Windows 10 Hyper-V - Finally a NAT Option..."
 date: 2016-08-19T16:47:51+0000
 lastmod: 2016-08-19T16:47:51+0000
 slug: "windows-10-hyper-v-finally-a-nat-option"
-feature_image: "https://www.cicoria.com/content/images/2016/08/network-virtualization-sdn.jpg"
+feature_image: "/images/2016/08/network-virtualization-sdn.jpg"
 aliases:
   - /windows-10-hyper-v-finally-a-nat-option/
 ---

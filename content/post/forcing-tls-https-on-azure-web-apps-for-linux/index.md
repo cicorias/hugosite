@@ -3,7 +3,7 @@ title: "Forcing TLS (HTTPS) on Azure Web Apps for Linux with nginx"
 date: 2017-08-15T12:51:00+0000
 lastmod: 2017-08-15T13:16:35+0000
 slug: "forcing-tls-https-on-azure-web-apps-for-linux"
-feature_image: "https://www.cicoria.com/content/images/2017/08/Untitled.jpg"
+feature_image: "/images/2017/08/Untitled.jpg"
 aliases:
   - /forcing-tls-https-on-azure-web-apps-for-linux/
 ---

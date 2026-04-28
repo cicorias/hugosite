@@ -3,7 +3,7 @@ title: "Cool tool for npm packages and having a local cache"
 date: 2017-07-28T11:49:55+0000
 lastmod: 2017-07-28T11:51:15+0000
 slug: "cool-tool-for-npm-packages-and-having-a-local-cache"
-feature_image: "https://www.cicoria.com/content/images/2017/07/two.png"
+feature_image: "/images/2017/07/two.png"
 aliases:
   - /cool-tool-for-npm-packages-and-having-a-local-cache/
 ---

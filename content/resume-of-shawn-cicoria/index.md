@@ -3,7 +3,7 @@ title: "CV Shawn Cicoria"
 date: 2025-08-11T13:41:16+0000
 lastmod: 2025-08-11T13:52:26+0000
 slug: "resume-of-shawn-cicoria"
-feature_image: "https://www.cicoria.com/content/images/2025/08/ChatGPT-Image-Aug-11--2025--09_46_10-AM-1.png"
+feature_image: "/images/2025/08/ChatGPT-Image-Aug-11--2025--09_46_10-AM-1.png"
 aliases:
   - /resume-of-shawn-cicoria/
 ---

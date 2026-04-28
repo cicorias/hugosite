@@ -3,7 +3,7 @@ title: "Using Private Docker Registry and Azure WebApps on Linux with ARM Templa
 date: 2017-05-18T15:02:23+0000
 lastmod: 2017-05-18T15:02:23+0000
 slug: "using-private-docker-registry-and-azure-webapps-on-linux"
-feature_image: "https://www.cicoria.com/content/images/2017/05/image_4.png"
+feature_image: "/images/2017/05/image_4.png"
 aliases:
   - /using-private-docker-registry-and-azure-webapps-on-linux/
 ---

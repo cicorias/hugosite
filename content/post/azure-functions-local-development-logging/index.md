@@ -3,7 +3,7 @@ title: "Azure Functions - Local Development Logging"
 date: 2016-06-14T16:00:19+0000
 lastmod: 2016-06-14T16:00:19+0000
 slug: "azure-functions-local-development-logging"
-feature_image: "https://www.cicoria.com/content/images/2016/06/AzureFunctions.png"
+feature_image: "/images/2016/06/AzureFunctions.png"
 aliases:
   - /azure-functions-local-development-logging/
 ---

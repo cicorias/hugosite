@@ -4,7 +4,7 @@ date: 2019-05-02T03:31:10+0000
 lastmod: 2019-05-02T03:41:58+0000
 slug: "data-science-and-devops"
 draft: true
-feature_image: "https://www.cicoria.com/content/images/2019/05/devops-machine-learning---Google-Search-2019-05-02-03-37-06-squashed.jpg"
+feature_image: "/images/2019/05/devops-machine-learning---Google-Search-2019-05-02-03-37-06-squashed.jpg"
 aliases:
   - /data-science-and-devops/
 ---

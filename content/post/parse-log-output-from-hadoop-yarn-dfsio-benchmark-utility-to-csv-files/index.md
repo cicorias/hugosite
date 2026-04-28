@@ -3,7 +3,7 @@ title: "Parse Log output from Hadoop Yarn MapReduce DFSIO Benchmark Utility to C
 date: 2022-07-22T21:00:13+0000
 lastmod: 2022-07-22T21:00:13+0000
 slug: "parse-log-output-from-hadoop-yarn-dfsio-benchmark-utility-to-csv-files"
-feature_image: "https://www.cicoria.com/content/images/2022/07/Hadoop-Architecture-YARN-HDFS-MapReduce.jpg"
+feature_image: "/images/2022/07/Hadoop-Architecture-YARN-HDFS-MapReduce.jpg"
 aliases:
   - /parse-log-output-from-hadoop-yarn-dfsio-benchmark-utility-to-csv-files/
 ---

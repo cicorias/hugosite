@@ -3,7 +3,7 @@ title: "Using Azure CLI with two different credentials"
 date: 2019-04-17T11:33:06+0000
 lastmod: 2019-04-17T11:33:06+0000
 slug: "using-azure-cli-with-two-different-credentials"
-feature_image: "https://www.cicoria.com/content/images/2019/04/MicrosoftAzure.png"
+feature_image: "/images/2019/04/MicrosoftAzure.png"
 aliases:
   - /using-azure-cli-with-two-different-credentials/
 ---

@@ -5,7 +5,7 @@ lastmod: 2026-04-06T15:34:59+0000
 slug: "cuda-on-wsl2-how-it-works-how-to-set-it-up-and-a-rust-tui-to-prove-it"
 summary: "Nvidia cuda on wsl quick setup and benchmarks"
 tags: ["code", "containers", "gpu", "linux", "pytorch", "ubuntu", "vm", "windows", "wsl"]
-feature_image: "https://www.cicoria.com/content/images/2026/04/image-2.jpg"
+feature_image: "/images/2026/04/image-2.jpg"
 aliases:
   - /cuda-on-wsl2-how-it-works-how-to-set-it-up-and-a-rust-tui-to-prove-it/
 ---

@@ -5,7 +5,7 @@ lastmod: 2022-01-05T10:23:31+0000
 slug: "loading-env-dotenv-using-bash-or-zsh"
 summary: "Keep Cloud Native and follow 12 Factor Apps with dotenv even in Shell Bash Zsh scripts"
 tags: ["bash", "shell", "utilities", "containers", "cloud"]
-feature_image: "https://www.cicoria.com/content/images/2022/01/isqxrrjimnx7uce0vsxe.png"
+feature_image: "/images/2022/01/isqxrrjimnx7uce0vsxe.png"
 aliases:
   - /loading-env-dotenv-using-bash-or-zsh/
 ---

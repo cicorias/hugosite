@@ -3,7 +3,7 @@ title: "ssh annoyance -- strict mode and known_hosts cleanup"
 date: 2019-12-07T15:16:36+0000
 lastmod: 2019-12-07T15:16:36+0000
 slug: "ssh-annoyance-strict-mode-and-known_hosts-cleanup"
-feature_image: "https://www.cicoria.com/content/images/2019/12/Annotation-2019-12-07-151541.jpg"
+feature_image: "/images/2019/12/Annotation-2019-12-07-151541.jpg"
 aliases:
   - /ssh-annoyance-strict-mode-and-known_hosts-cleanup/
 ---

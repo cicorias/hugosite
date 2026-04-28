@@ -3,7 +3,7 @@ title: "npx business cards - gone viral so fast..."
 date: 2018-12-20T11:11:29+0000
 lastmod: 2018-12-20T11:11:29+0000
 slug: "npx-business-cards"
-feature_image: "https://www.cicoria.com/content/images/2018/12/image-10.png"
+feature_image: "/images/2018/12/image-10.png"
 aliases:
   - /npx-business-cards/
 ---

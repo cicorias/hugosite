@@ -3,7 +3,7 @@ title: "User Experience Above All Else"
 date: 2016-08-18T11:12:35+0000
 lastmod: 2016-08-18T11:12:35+0000
 slug: "user-experience-above-all-else"
-feature_image: "https://www.cicoria.com/content/images/2016/08/user-experience-design-process.jpg"
+feature_image: "/images/2016/08/user-experience-design-process.jpg"
 aliases:
   - /user-experience-above-all-else/
 ---
