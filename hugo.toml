@@ -1,0 +1,50 @@
+baseURL = 'https://www.cicoria.com/'
+locale = 'en-US'
+title = 'Dr. Shawn Cicoria - CedarLogic, LLC'
+theme = 'hugo-xmin'
+googleAnalytics = 'UA-143143-1'
+paginate = 15
+
+[permalinks]
+  post = '/:slug/'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 2
+  [[menu.main]]
+    name = 'Tags'
+    url = '/tags/'
+    weight = 3
+  [[menu.main]]
+    name = 'LinkedIn'
+    url = 'https://www.linkedin.com/in/shawncicoria'
+    weight = 4
+  [[menu.main]]
+    name = 'GitHub'
+    url = 'https://github.com/cicorias'
+    weight = 5
+  [[menu.main]]
+    name = 'Subscribe'
+    url = '/index.xml'
+    weight = 6
+
+[params]
+  description = 'Thoughts, stories and ideas.'
+  author = 'Shawn Cicoria'
+  footer = '&copy; [Shawn Cicoria](https://www.cicoria.com) 2006 -- {Year} | [GitHub](https://github.com/cicorias) | [LinkedIn](https://www.linkedin.com/in/shawncicoria)'
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = 'monokai'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

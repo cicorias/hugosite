@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+{{ $pages := .Site.RegularPages }}
+{{ $latest := index $pages 0 }}
+
+{{/* Featured latest post */}}
+<article class="latest-post">
+  <h2><a href="{{ $latest.RelPermalink }}">{{ $latest.Title | markdownify }}</a></h2>
+  <p class="date">{{ $latest.Date.Format "January 2, 2006" }}</p>
+  {{ with $latest.Params.feature_image }}
+  <p><img src="{{ . }}" alt="{{ $latest.Title }}" style="max-width:100%;"></p>
+  {{ end }}
+  {{ $latest.Content }}
+</article>
+
+<hr>
+
+{{/* Older posts as title list */}}
+<h2>Older Posts</h2>
+<ul>
+  {{ range after 1 $pages }}
+  <li>
+    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
