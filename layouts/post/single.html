@@ -5,6 +5,12 @@
 {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
 </div>
 
+{{ with .Params.feature_image }}
+<div class="hero-image">
+  <img src="{{ . }}" alt="{{ $.Title }}" style="max-width:100%;">
+</div>
+{{ end }}
+
 <main>
 {{ .Content }}
 </main>
