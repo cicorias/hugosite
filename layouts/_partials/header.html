@@ -15,6 +15,11 @@
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
+      <li class="nav-search">
+        <form action="{{ "search/" | relURL }}" method="get">
+          <input type="search" name="q" placeholder="Search…" aria-label="Search">
+        </form>
+      </li>
     </ul>
     <hr/>
     </nav>
