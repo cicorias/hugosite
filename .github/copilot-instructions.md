@@ -51,10 +51,10 @@ hugo --gc --cleanDestinationDir
 | Post              | `content/post/<slug>/index.md` (leaf bundle)             |
 | Page              | `content/<slug>/index.md`                                |
 | Tags              | Front matter `tags: [...]` → taxonomy at `/tags/`        |
-| Featured image    | `image` param in front matter or colocated in bundle     |
+| Featured image    | `image` param in front matter, referencing `/images/<file>` in `static/images/` |
 | Author            | Single author; set in `hugo.toml` `[params]`             |
 | Post excerpt      | `summary` in front matter or `<!--more-->` marker        |
-| Internal images   | Colocated in the post's leaf bundle directory             |
+| Internal images   | Stored in `static/images/` and referenced as `/images/<file>` in Markdown |
 
 ### Post Front Matter Template
 
@@ -80,7 +80,7 @@ aliases:
 
 - Export Ghost content via the Ghost Admin API or JSON export (`ghost export`).
 - Convert Ghost HTML/Mobiledoc content to Markdown. Tools like [`ghost-to-hugo`](https://github.com/jbarone/ghostToHugo) can automate this.
-- Download and colocate images into each post's leaf bundle directory rather than a shared images folder.
+- Place images in `static/images/` and reference them as `/images/<file>` in Markdown and front matter. Do **not** colocate images in the post's leaf bundle directory — the XMin theme does not resolve bundle-relative images.
 - Preserve original Ghost URLs using `aliases` in front matter to avoid broken links.
 - Ghost's `<!--kg-card-begin: code-->` blocks should be converted to fenced code blocks with language hints.
 
