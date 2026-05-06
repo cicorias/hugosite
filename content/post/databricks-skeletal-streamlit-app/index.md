@@ -114,9 +114,43 @@ The Streamlit app is a single `app.py` file with five pages routed through a sid
 
 The **Dashboard** page reads exclusively from materialized views. It renders KPI cards, monthly revenue and order bar charts, a region-by-product pivot table, and a rep leaderboard — all parameterized by year, region, and product filters. The bottom of the page includes a "Submit Month for Approval" action that kicks off the workflow.
 
+![Dashboard with KPI cards, monthly charts, and region breakdown](/images/01-dashboard-loaded.png)
+
+The submit section at the bottom of the dashboard lets any user kick off the approval workflow for a specific month. Selecting a month and clicking "Submit for Review" creates the workflow record and its three approval steps.
+
+![Submit section at the bottom of the dashboard](/images/02-dashboard-submit-section.png)
+
+After submission, the confirmation message shows the newly created workflow ID and the steps queued for review:
+
+![Submit section and success confirmation](/images/03-dashboard-submitted-success.png)
+
 The **Review Queue** page is role-scoped. A sidebar dropdown selects the reviewer's role (manager, finance, director), and the queue shows only items waiting for that role's approval step. Each item displays a step trail with badge indicators (`⏳ pending`, `✅ approved`, `❌ rejected`), an inline data preview pulled from the materialized view, and approve/reject buttons with an optional comments field. The three-step flow — Manager → Finance → Director — is defined entirely in the `workflow_config` seed data, so changing the approval chain means updating three rows in a table rather than modifying application code.
 
+![Manager review queue with step trail and inline data preview](/images/04-review-queue-manager.png)
+
+Once the manager approves, the step trail updates to show the completed approval and the item advances to the next role's queue:
+
+![Manager review queue after approval](/images/05-review-queue-manager-approved.png)
+
+The finance reviewer now sees the item with the manager's approval already recorded:
+
+![Finance review queue showing manager already approved](/images/06-review-queue-finance.png)
+
+After finance approves, the step trail reflects two completed approvals and the item moves to the final reviewer:
+
+![Finance review queue after approval](/images/07-review-queue-finance-approved.png)
+
+The director sees the full approval chain — manager and finance both approved — and makes the final decision:
+
+![Director review queue with two prior approvals](/images/08-review-queue-director.png)
+
+Once the director approves, all three steps are complete and the workflow reaches its terminal state:
+
+![Director review queue after final approval](/images/09-review-queue-director-approved.png)
+
 The **Audit Log** page queries `vw_workflow_audit` — the live SQL view — and renders the full history of every workflow action, filterable by status.
+
+![Audit log showing full workflow history](/images/10-audit-log.png)
 
 The **Pipeline Lineage** page demonstrates Volume browsing. It provides a hierarchical drill-down (Reporting Period → Business Code → Job Run) into the silver volume, reads `sales-check.json` files, and renders them as styled HTML dashboards showing data-quality tick-and-tie checks across pipeline stages. This page uses the Databricks SDK's file APIs rather than SQL, showing that Volumes can serve as a first-class data source alongside tables.
 
@@ -199,5 +233,59 @@ make dev-frontend          # terminal 2
 ```
 
 This separation keeps the data layer as a shared foundation. Both the Streamlit app and the Flask app query the same materialized views and workflow tables — swapping the UI framework doesn't require re-provisioning anything in Unity Catalog.
+
+The two apps side by side — Streamlit on the left, Flask + React on the right — show the same data served through different UI stacks:
+
+![Streamlit app deployed on Databricks](/images/streamlit-app-viewport.png)
+
+![Flask + React app deployed on Databricks](/images/flask-app-viewport.png)
+
+The full-page views show the complete layout each framework renders:
+
+![Streamlit app full page view](/images/streamlit-app-full.png)
+
+![Flask + React app full page view](/images/flask-app-full.png)
+
+## Databricks AppKit Example
+
+The repository also includes an `appkitapp/` directory containing a full [Databricks AppKit](https://databricks.github.io/appkit/) application — a React + TypeScript + Tailwind CSS frontend backed by an Express server, scaffolded using the AppKit SDK (`@databricks/appkit` v0.24). This is a third UI variant alongside the Streamlit and Flask apps, purpose-built to demonstrate AppKit's higher-level abstractions for the same sales-review domain.
+
+AppKit provides plugin-based integration with Databricks platform services. The `appkitapp` enables four plugins:
+
+- **Analytics** — SQL query execution against Databricks SQL Warehouses (the same warehouse the Streamlit and Flask apps use)
+- **Lakebase** — fully managed Postgres database for transactional (OLTP) workloads on Databricks
+- **Genie** — AI/BI conversational interface for natural language data queries
+- **Server** — Express HTTP server with static file serving and Vite dev mode
+
+Like the Flask app, the AppKit app does not duplicate the data setup. It depends on the root-level Makefile for creating Unity Catalog volumes, uploading sample data, and running the SQL DDL that creates tables, materialized views, and the audit view. A typical first-time setup runs the root targets first, then switches into `appkitapp/`:
+
+```bash
+# From the repo root — set up all Databricks objects
+make install gen-data upload-data sql-setup
+
+# Then build and run the AppKit app
+cd appkitapp
+make install dev
+```
+
+The AppKit app's `databricks.yml` declares its resources through the DABs bundle format — a SQL warehouse, a Unity Catalog volume with `WRITE_VOLUME` permission, a Genie space, a Lakebase Postgres branch and database, and a serving endpoint. Environment variables like `DATABRICKS_WAREHOUSE_ID` and `LAKEBASE_ENDPOINT` are resolved at deploy time through `valueFrom` references in `app.yaml`, following the same pattern the Streamlit app uses.
+
+Its Makefile provides the same developer experience as the other apps:
+
+```text
+  install        Install npm dependencies
+  dev            Run local dev server (Vite + Express, hot-reload)
+  build          Build client + server for production
+  lint           Run ESLint
+  typecheck      Run TypeScript type-check
+  test           Run Vitest + smoke tests
+  test-e2e       Run Playwright end-to-end tests
+  validate       Validate the DABs bundle
+  deploy         Deploy via DABs (validate + deploy + run)
+  stop           Stop the deployed app (keeps definition; saves compute)
+  clean          Remove local build artifacts
+```
+
+Where the Streamlit and Flask apps implement authentication, connection management, and resource resolution explicitly (manual header parsing, SDK calls, `.env` generation), AppKit handles these concerns through its plugin system and the `@databricks/appkit` runtime. Comparing the three apps — Streamlit's direct SDK usage, Flask's explicit REST endpoints, and AppKit's plugin-driven abstractions — gives a clear view of the spectrum from low-level control to framework-managed convenience, all against the same shared data layer.
 
 The skeleton is the point.
