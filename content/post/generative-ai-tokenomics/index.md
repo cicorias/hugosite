@@ -1,8 +1,8 @@
 ---
 title: "Tokenomics: The Allocation of Scarce Resources in Agentic AI"
 date: 2026-05-12T10:27:49-04:00
-draft: true
-slug: "tokenomics"
+draft: false
+slug: "generative-ai-tokenomics"
 tags: ["ai", "generative-ai", "economics", "coding-agents", "llm", "local-inference"]
 image: "/images/2026/05/12/tokenomics-hero.jpg"
 summary: "Economics is the allocation of scarce resources. Tokens are becoming that scarce resource. As GenAI subsidies disappear and agentic workflows explode consumption, developers need to start thinking like economists."
