@@ -4,6 +4,10 @@
 
 This is a Hugo static site migrating **cicoria.com** from Ghost 6.19. The site is a personal tech blog ("Dr. Shawn Cicoria — CedarLogic, LLC") using the **XMin** theme. Content covers topics like containers, GPU/CUDA, Linux, Windows/WSL, cloud infrastructure, and software development.
 
+## Tooling Rules
+
+- **Python:** Use `uv` and `.venv/` exclusively. Never use `pip`, `poetry`, `pipenv`, `conda`, or `python -m venv` directly. See [.github/instructions/python.instructions.md](.github/instructions/python.instructions.md) for the full rules.
+
 ## Build and Development Commands
 
 ```bash

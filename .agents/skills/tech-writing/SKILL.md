@@ -60,3 +60,7 @@ Provide insights that go beyond basic tutorials or documentation.
 Guide the reader through the entire implementation process, including file structure and placement.
 
 Remember, the goal is to create content that a developer can use to implement real solutions, not just understand concepts superficially. Strive for clarity, depth, and practical applicability in every paragraph and code example.
+
+# Rules
+
+## Never use em-dashes -- ever
