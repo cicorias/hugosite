@@ -1,6 +1,6 @@
 ---
 title: "About this site"
-date: 2025-05-02T16:13:57+0000
+date: 2026-05-13T08:07:00-0400
 lastmod: 2026-05-13T08:07:00-0400
 slug: "about"
 feature_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHdyaXRpbmd8ZW58MHx8fHwxNzU0OTE4MjMwfDA&ixlib=rb-4.1.0&q=80&w=2000"
@@ -10,7 +10,7 @@ aliases:
 
 [View my full resume](/resume-of-shawn-cicoria/)
 
-Shawn Cicoria is a principal engineering leader at Microsoft's Commercial Software Engineering group, where he focuses on distributed systems along with cloud, data, and AI/ML solutions. He has authored many books and technical posts for Microsoft's ISE Developer Blog and maintains active open-source work on GitHub. Beyond industry, he has taught computer science at Pace University and has spoken publicly about NJIT's M.S. in Data Science program. Lately, his writing has highlighted modern observability practices with OpenTelemetry.
+Shawn Cicoria has been a  Forward Deployed Engineer (FDE) for the past decade at Microsoft and  a Principal Engineering leader in Microsoft's Industry/Commercial Software Engineering group, where he focuses on generative AI, distributed systems along with cloud, data, and AI/ML solutions. He has authored many books and technical posts for Microsoft's ISE Developer Blog and maintains active open-source work on GitHub. Beyond industry, he has taught computer science at Pace University and has spoken publicly about NJIT's M.S. in Data Science program. Lately, his writing has highlighted modern observability practices with OpenTelemetry.
 
 Most recently at Microsoft, Shawn has led large-scale Big Data and analytics solutions on Databricks on Azure, including lakehouse architecture, performance tuning, and cost optimization. He designed and implemented Databricks governance patterns (Unity Catalog, access controls, data lineage/quality, and SDLC guardrails) for secure multi-workspace and multi-tenant delivery. He has also delivered GenAI capabilities on Azure (RAG, vector search, evaluation, safety controls) integrated with governed lakehouse data. Shipped production releases include the Ecolab RushReady AI-backed platform, a Journal Entry Generative AI solution, and an AP Exception Support customer-facing solution, achieving roughly 90% reduction in response time.
 

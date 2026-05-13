@@ -2,9 +2,8 @@
 title: "Resume"
 date: 2026-05-13T08:11:00-0400
 lastmod: 2026-05-13T08:22:00-0400
-slug: "resume-of-shawn-cicoria"
+slug: "resume"
 aliases:
-  - /resume-of-shawn-cicoria/
   - /resume/
 ---
 
