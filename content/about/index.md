@@ -82,3 +82,7 @@ By signing up, you'll get access to the full archive of everything that's been p
 ### Fresh content, delivered
 
 Stay up to date with new content sent straight to your inbox! No more worrying about whether you missed something because of a pesky algorithm or news feed.
+
+---
+
+See the [Privacy Policy](/privacy-policy/) for details on how this site handles analytics and visitor information.
