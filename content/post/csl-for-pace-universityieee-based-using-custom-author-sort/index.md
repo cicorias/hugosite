@@ -16,7 +16,6 @@ aliases:
     <link href="http://www.zotero.org/styles/ieee" rel="self"/>
     <author>
       <name>Shawn Cicoria</name>
-      <email>shawn@cicoria.com</email>
     </author>
     <category field="engineering"/>
     <category field="generic-base"/>

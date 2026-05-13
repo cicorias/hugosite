@@ -1,70 +1,86 @@
 ---
-title: "CV Shawn Cicoria"
-date: 2025-08-11T13:41:16+0000
-lastmod: 2025-08-11T13:52:26+0000
+title: "Resume"
+date: 2026-05-13T08:11:00-0400
+lastmod: 2026-05-13T08:22:00-0400
 slug: "resume-of-shawn-cicoria"
-feature_image: "/images/2025/08/ChatGPT-Image-Aug-11--2025--09_46_10-AM-1.png"
 aliases:
   - /resume-of-shawn-cicoria/
+  - /resume/
 ---
 
-**Shawn P. Cicoria** United States • [linkedin.com/in/shawncicoria](https://linkedin.com/in/shawncicoria) • [github.com/cicorias](https://github.com/cicorias) • [www.cicoria.com](https://www.cicoria.com/)
+# Shawn P Cicoria
 
-### SUMMARY
+United States | [LinkedIn](https://www.linkedin.com/in/shawncicoria) | [www.cicoria.com](https://www.cicoria.com) | [GitHub](https://github.com/cicorias)
 
-Principal software engineer with 18+ years’ hands-on technical leadership, deep expertise in designing and building large-scale distributed systems and multi-tenant cloud services. Proven track record of end-to-end delivery—from low-level systems internals through globally-scaled APIs and data pipelines—using C, C++, C#, Java, Rust, and modern containerized microservices. Skilled in applying architectural best practices, setting coding standards, and mentoring cross-functional teams to deliver secure, high-performance cloud platforms used by millions of customers.
+## Summary
 
-### CORE QUALIFICATIONS
+Hands-on Technical Lead driven towards action and sense of urgency towards prioritized delivery targets; resolve issues, move forward. Bias to action. Results-oriented engineering project teams across Retail, Automotive, Financial Services, eCommerce, and Manufacturing. Startups and large enterprises. Results-oriented lead spanning team sizes of 5 to 50+. Production continuous delivery, agile, DevOps, Security and Cybersecurity. Dissertation on Cloud and Cloud Native migration framework. Cloud Scale, Building Teams, CI/CD, GitHub, DevOps.
 
-- **Languages & System Internals** – 18 years coding in C, C++, C#, Java, Rust, Go, Python; deep understanding of memory management, concurrency, and runtime optimizations
-- **Distributed Systems & Cloud Scale** – 15 years architecting and operating globally distributed back-end services ingesting ≥10 TB/day across millions of resources in Azure, including Gateway, API, Store, and Ingestion layers
-- **Multi-Tenancy & Platform Engineering** – 12 years building multi-tenant platforms on Azure PaaS/IaaS, delivering query-at-scale capabilities with strict isolation, per-tenant throttling, and secure authorization
-- **Architectural Best Practices** – 8 years as hands-on lead applying standards for high availability, resiliency, performance tuning, and maintainability; authored org-wide coding guidelines and review processes
-- **Leadership & Cross-Functional Influencing** – 5+ years mentoring engineers, guiding technical roadmaps, and spearheading cross-team initiatives; foster collaborative culture and drive consensus across PM, Ops, Security, and external partners
-- **Security & Compliance** – Design and implement controls to meet Microsoft Cloud Background Check and government screening requirements; extensive experience with identity, access management, and encryption standards
+## Experience
 
-### PROFESSIONAL EXPERIENCE
+### FDE Principal Software Engineer Architect Lead Manager | Microsoft Corporation
 
-**Microsoft Corporation** | Principal Software Engineer Lead Manager Redmond, WA (Remote) | Jan 2007 – Present
+**January 2007 - Present**
 
-- **Core Inventory Graph Platform** – Lead architecture and development of a planet-scale, connected-graph inventory service (Microsoft Resource Graph) returning >6 billion resources/day. – Designed and optimized the distributed Gateway, API, Store, and Ingestion services in C#/.NET and C++ to meet sub-second query-at-scale SLAs across trillions of edges.
-- **Multi-Tenancy & Security** – Built and evolved multi-tenant framework supporting strict isolation, role-based access control (RBAC) via Azure’s authorization engine, and tenant-aware throttling—onboarded 10M+ customers. – Implemented end-to-end security screening compliance (Microsoft Cloud Background Check readiness), automated governance policies, and encryption-at-rest/in-transit controls.
-- **Runtime & Performance Optimization** – Drove low-level runtime enhancements in the query engine (Rust and C++), reducing P50 latency by 30% and P99 by 50%; introduced lock-free data structures and memory-pool allocators.
-- **Standards & Mentorship** – Authored platform-wide architectural patterns, coding standards, and performance-tuning playbooks; mentored 20+ engineers in system-internals best practices and cloud-native design. – Orchestrated cross-organizational “Architecture Council” driving rollout of new API surface designs, monitoring standards, and disaster-recovery processes.
+- Initial incubation and creation of Forward Deployment Engineer (FDE) team 2016 to present, global footprint.
+- Azure cloud services engineering design, build, deploy Cloud Native Solutions servicing millions of users.
+- Full stack cross-platform engineering, architecture, development best practices for CI/CD Cloud Native distributed systems at scale.
+- Agile-oriented Kanban and scrum practices for team delivery and continuous delivery of quality product.
+- Leveraging Open-Source (OSS) for customer solutions and guidance for production systems.
+- Developer real-world experience publication, both writing and implementation of publication platform https://devblogs.microsoft.com/.
+- Engage customers ranging from OSS startups to large Enterprise and strategic partners.
+- Lead an agile development team of engineers on dozens of projects.
+- Engineering manager with Top Box rating from MS Poll; Top Box from Client Surveys.
+- Developer advocacy part of Developer Platform Evangelism (DPE) and Developer Experience (DX) global audiences, cloud native, conferences.
 
-**Avanade / Accenture** | Director, Global Industry Solutions New York, NY | Jun 2003 – Apr 2007
+### Director Global Industry Solutions | Avanade | New York, NY
 
-- Led end-to-end delivery of multi-tenant Azure PaaS migrations and greenfield cloud-native redesigns for financial services, achieving 99.95% uptime across services.
-- Defined technical vision, implemented identity and access frameworks (OAuth 2.0, Azure AD), and mapped controls to FedRAMP and FINRA requirements.
-- Coordinated with Microsoft product teams and external vendors to integrate threat-intelligence feeds and SOAR workflows into global SOC platforms.
+**June 2003 - April 2007**
 
-**SunGard Securities Finance** | CTO & VP, Product Manager New York, NY | 2000 – 2003
+- Part of Accenture Financial Services team drove architecture solutions and capabilities.
+- Services and solutions to clients, Accenture partners, and Microsoft internal teams.
+- Awards for migration solutions: 1) Desktops and 2) Lift and Shift.
+- Lead technology, tradeoff analysis, and best practice.
 
-- Architected and launched “OmniLend” multi-tenant message broker in C++/Java with per-client ACLs and end-to-end encryption—generated $5 M+ in first-year revenue.
-- Led rewrite of legacy mainframe lending system into containerized microservices on Azure, scaling to $1 B+ daily transaction volume with real-time risk alerts.
+### CTO Vice President - Product Manager | SunGard Securities Finance | New York, NY
 
-### EDUCATION
+- Global provider of Securities Finance stock-loan, securities lending, and repurchase agreements, a $2.6 trillion industry.
+- Founded and built OmniConnect (ISV integration product), which was acquired by SunGard.
+- Created OmniLend message broker for integration platform needs generating $5 million sales first year.
+- Group generated over $1B current sales after rewrite of primary Mainframe system for Distributed Architecture.
 
-- **Doctorate in Computer Science**, Pace University (3.8 GPA), 2017
-- **M.S. in Cyber Security & Privacy**, NJ Institute of Technology (3.8), 2023
-- **M.S. in Computational Data Science**, NJ Institute of Technology (3.8), 2020
-- **MBA in Finance & Information Systems**, Pace University
-- **LL.M. in Cyber Security**, Texas A&M University School of Law (expected 2025)
-- **B.A. in Economics & Computer Science**, Stockton University
+### Adjunct Professor | Pace University - Computer Science | New York, NY
 
-### CERTIFICATIONS & COMPLIANCE
+- Top box scores for CS 612 Concepts and Structures in Internet Computing.
 
-- In progress: CISSP, CISA, CISM (Q4 2025)
-- Microsoft Certified: Azure Solutions Architect Expert; Azure Security Engineer Associate
-- Security+: SY0-601 (Q3 2025)
-- Eligible for Microsoft Cloud Background Check and periodic government screening
+## Project Examples
 
-### TECHNICAL SKILLS
+- ReactJS authentication with Azure Active Directory, effort eventually migrated to SDK team.
+- Blockchain Workbench, complete enterprise-ready Ethereum deployment, migrated to Blockchain product team.
+- React Native for Windows, cross-platform tool eventually migrated to Product Team.
+- Cloud scale web apps, backend, such as eCommerce (Jet.com as an example).
+- NLP Drive Through, AI/ML Anomaly detection at scale.
 
-| **Languages** | C, C++, C#, Java, Rust, Go, Python, TypeScript, Kotlin, Rust, C/C++ |
-| --- | --- |
-| **Cloud & DevOps** | Azure (PaaS/IaaS), Kubernetes, Docker, GitHub Actions, Azure DevOps |
-| **Distributed Systems** | High-performance APIs, Ingestion pipelines, Multi-tenant frameworks |
-| **Security & Data** | RBAC, OAuth 2.0, Encryption (TLS/SSL), Azure Sentinel, Kusto, Synapse |
-| **AI/ML & Analytics** | TensorFlow, PyTorch, SpaCy, Anomaly Detection Pipelines |
-| **Soft Skills** | Agile (Scrum/Kanban), Technical Roadmapping, Mentorship, Cross-functional Leadership |
+## Volunteering
+
+**Youth Group for Appalachia**
+Engage local contractors and volunteers in Harlan, KY on fixing, building, and repairing homes for less fortunate members of society.
+
+## Education
+
+- **Doctorate in Computer Science** (3.8 GPA), Pace University, White Plains, NY, 2017
+- **Master of Legal Studies, Cyber Security**, Texas A&M University School of Law (expected 2027)
+- **Master of Data Science, Computational Track** (3.8 GPA), New Jersey Institute of Technology, Jersey City, NJ, 2020
+- **Master of Data Science, Cyber Security and Privacy** (3.8 GPA), New Jersey Institute of Technology, 2023
+- **Master of Business Administration, Finance and Information Systems**, Pace University, New York, NY
+- **Bachelor of Arts in Economics and Computer Science**, Stockton University, Pomona, NJ
+
+## Skills
+
+**Cloud and Technical:** Identity, OAuth, Blockchain, Cloud, Azure, PaaS, Containers, Microservices, Docker, Kubernetes, DevOps
+
+**Software:** TypeScript, C#, C/C++, Python, Java, Kotlin, Golang, Rust, Assembler
+
+**AI/ML:** Machine Learning, AI, SpaCy, NLP, Chatbot, TensorFlow, PyTorch, NumPy
+
+**Soft Skills:** Agile, Scrum, Kanban, Leadership, Audience Presentations

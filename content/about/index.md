@@ -1,26 +1,49 @@
 ---
 title: "About this site"
 date: 2025-05-02T16:13:57+0000
-lastmod: 2025-08-11T13:37:41+0000
+lastmod: 2026-05-13T08:07:00-0400
 slug: "about"
 feature_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHdyaXRpbmd8ZW58MHx8fHwxNzU0OTE4MjMwfDA&ixlib=rb-4.1.0&q=80&w=2000"
 aliases:
   - /about/
 ---
 
-Shawn Cicoria is a principal engineering leader at Microsoft’s Commercial Software Engineering group, where he focuses on distributed systems along with cloud and AI/ML solutions. He has authored many books and technical posts for Microsoft’s ISE Developer Blog and maintains active open-source work on GitHub. Beyond industry, he has taught computer science at Pace University and has spoken publicly about NJIT’s M.S. in Data Science program. Lately, his writing has highlighted modern observability practices with OpenTelemetry.
+[View my full resume](/resume-of-shawn-cicoria/)
 
-Shawn is a cloud engineer and architect known for working in high scale distributed systems. He has held engineering leadership roles at Microsoft, Avanade, State Street Bank, UBS (fka Swiss Bank Corporation), an Application Lifecycle Management (ALM) Ranger, Agile and Scrum Leader, and now in Commercial Software Engineering at Microsoft.
+Shawn Cicoria is a principal engineering leader at Microsoft's Commercial Software Engineering group, where he focuses on distributed systems along with cloud, data, and AI/ML solutions. He has authored many books and technical posts for Microsoft's ISE Developer Blog and maintains active open-source work on GitHub. Beyond industry, he has taught computer science at Pace University and has spoken publicly about NJIT's M.S. in Data Science program. Lately, his writing has highlighted modern observability practices with OpenTelemetry.
 
-He co-authored ***Pro WCF: Practical Microsoft SOA Implementation*** (Apress, 2007), contributing chapters on WCF security, reliability, transactions, and interoperability—work cited widely in developer literature.
+Most recently at Microsoft, Shawn has led large-scale Big Data and analytics solutions on Databricks on Azure, including lakehouse architecture, performance tuning, and cost optimization. He designed and implemented Databricks governance patterns (Unity Catalog, access controls, data lineage/quality, and SDLC guardrails) for secure multi-workspace and multi-tenant delivery. He has also delivered GenAI capabilities on Azure (RAG, vector search, evaluation, safety controls) integrated with governed lakehouse data. Shipped production releases include the Ecolab RushReady AI-backed platform, a Journal Entry Generative AI solution, and an AP Exception Support customer-facing solution, achieving roughly 90% reduction in response time.
+
+Shawn is a cloud engineer and architect known for working in high-scale distributed systems. He has held engineering leadership roles at Microsoft, Avanade, SunGard Securities Finance, State Street Bank, UBS (fka Swiss Bank Corporation), and has served as an Application Lifecycle Management (ALM) Ranger and Agile/Scrum Leader. At SunGard, he served as CTO and VP of Product Management, where he founded and built OmniConnect (an ISV integration product that was acquired by SunGard) and created the OmniLend message broker, generating $5 million in sales in its first year.
+
+He co-authored ***Pro WCF: Practical Microsoft SOA Implementation*** (Apress, 2007), contributing chapters on WCF security, reliability, transactions, and interoperability, a work cited widely in developer literature. He also co-authored ***Better Unit Testing with Microsoft Fakes*** (Microsoft, 2013) and contributed to the ***Team Foundation Service Preview*** guide as part of the Microsoft ALM Rangers.
 
 Shawn is an expert in modern authentication and authorization implementation, security, federation for cloud native platforms, apps and systems integration.
 
 Shawn Cicoria completed a PhD at Pace University in 2017 on Risks and Patterns in Migrating Applications to Public Cloud Platforms, reflecting a sustained focus on cloud architecture and modernization.
 
-Beyond writing and research, he appears in community and industry venues—for example, a Microsoft/Angelbeat testimonial video and a 2020 NJIT highlight featuring remarks on the M.S. in Data Science program.
+Beyond writing and research, he appears in community and industry venues, for example, a Microsoft/Angelbeat testimonial video and a 2020 NJIT highlight featuring remarks on the M.S. in Data Science program.
 
 Today, his public work emphasizes hands-on engineering across AI/ML, data, and cloud-native systems, alongside open-source contributions.
+
+# Education
+
+- **Doctorate in Computer Science** (3.8 GPA), Pace University, White Plains, NY, 2017
+- **Master of Legal Studies, Cyber Security**, Texas A&M University School of Law (expected 2026)
+- **Master of Data Science, Cyber Security and Privacy** (3.8 GPA), New Jersey Institute of Technology, 2023
+- **Master of Data Science, Computational Track** (3.8 GPA), New Jersey Institute of Technology, 2020
+- **Master of Business Administration, Finance and Information Systems**, Pace University, New York, NY
+- **Bachelor of Arts in Economics and Computer Science**, Stockton University, Pomona, NJ
+
+# Certifications
+
+- Certified ScrumMaster, Scrum Alliance (2012)
+- Multiple Microsoft technical certifications
+
+# Volunteering
+
+- **Youth Group for Appalachia**: Engaging local contractors and volunteers in Harlan, KY to fix, build, and repair homes for less fortunate community members.
+- **Links Association**: Board Member and Treasurer, focused on social services.
 
 # Publications
 
@@ -68,6 +91,12 @@ Today, his public work emphasizes hands-on engineering across AI/ML, data, and c
     *C Peiris, D Mulder, S Cicoria, A Bahree, N Pathak — in Pro WCF, pp. 335–370, 2007* ([Google Scholar](https://scholar.google.com/citations?hl=en&user=q95JbvoAAAAJ&utm_source=chatgpt.com))
 20. **Integrating with COM+**  
     *C Peiris, D Mulder, S Cicoria, A Bahree, N Pathak — in Pro WCF, pp. 301–334, 2007* ([Google Scholar](https://scholar.google.com/citations?hl=en&user=q95JbvoAAAAJ&utm_source=chatgpt.com))
+21. **Better Unit Testing with Microsoft Fakes**  
+    *S Cicoria et al. -- Microsoft, 2013* ([LinkedIn](https://www.linkedin.com/in/shawncicoria))
+22. **Team Foundation Service Preview**  
+    *Microsoft ALM Rangers -- August 2012* ([LinkedIn](https://www.linkedin.com/in/shawncicoria))
+23. **Integrating WCF Services with COM+**  
+    *S Cicoria et al. -- Microsoft MSDN, February 2007* ([MSDN](https://msdn.microsoft.com/en-us/library/bb735856.aspx))
 
 ---
 
@@ -85,4 +114,4 @@ Stay up to date with new content sent straight to your inbox! No more worrying a
 
 ---
 
-See the [Privacy Policy](/privacy-policy/) for details on how this site handles analytics and visitor information.
+See the [Privacy Policy](/privacy-policy/) and [Cookie Policy](/cookie-policy/) for details on how this site handles analytics and visitor information.

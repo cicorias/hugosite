@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-{{ $pages := .Site.RegularPages }}
+{{ $pages := where .Site.RegularPages "Section" "post" }}
 {{ $latest := index $pages 0 }}
 
 {{/* Featured latest post */}}
