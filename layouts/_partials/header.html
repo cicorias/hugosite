@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
+    {{ partialCached "ga_tracking.html" . }}
+    {{ partialCached "clarity_tracking" . }}
   </head>
 
   <body>
