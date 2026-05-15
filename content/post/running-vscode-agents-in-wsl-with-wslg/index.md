@@ -25,6 +25,8 @@ Download the Linux x64 `.tar.gz` archive of VS Code (or VS Code Insiders / Agent
 
 ```bash
 mkdir -p "$HOME/bin"
+cd $HOME/bin
+curl -OL 'https://code.visualstudio.com/sha/download?build=stable&os=linux-x64'
 # Download and extract (adjust URL for the Agents/Insiders build)
 tar -xzf code-stable-x64.tar.gz -C "$HOME/bin/"
 ```
