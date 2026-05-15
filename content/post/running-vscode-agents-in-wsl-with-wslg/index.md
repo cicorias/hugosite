@@ -45,7 +45,8 @@ lcode() {
 }
 ```
 
->NOTE: Troubleshooting
+## Troubleshooting
+**look in `/tmp/lcode*` log files**
 
 
 If you get errors looking for libs (look in /tmp/lcode* log files) need to add couple of libs
