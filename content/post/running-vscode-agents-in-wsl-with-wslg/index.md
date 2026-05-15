@@ -3,8 +3,8 @@ title: "Running VS Code Agents in WSL Using WSLg"
 date: 2026-05-15T08:55:00-04:00
 slug: "running-vscode-agents-in-wsl-with-wslg"
 feature_image: "/images/2026/05/WSLg_ArchitectureOverview.png"
-tags: ["vscode", "wsl", "linux", "windows"]
-summary: "A workaround to run the new GitHub VS Code Agents app natively inside WSL2 by leveraging WSLg and a simple shell function."
+tags: ["vscode", "wsl", "linux", "windows", "github-copilot"]
+summary: "A workaround to run the new GitHub VS Code Agents app and the GitHub Copilot app natively inside WSL2 by leveraging WSLg and a simple shell function."
 aliases:
   - /running-vscode-agents-in-wsl-with-wslg/
 ---
@@ -67,8 +67,26 @@ The VS Code Agents window renders on your Windows desktop via WSLg, but the edit
 
 WSLg provides a Wayland/X11 compositor that bridges Linux GUI apps to the Windows desktop. By running the Linux build of VS Code Agents inside WSL, the editor sees a normal Linux environment. There is no remote connection, no UNC path translation, and no cross-OS filesystem boundary. Your files, your shell, and your tools are all in one place.
 
+## Also Works with the GitHub Copilot App
+
+GitHub [announced the GitHub Copilot app](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/) on May 14, 2026. It is a standalone desktop application for agent-driven development that brings parallel workstreams, GitHub integration, and PR lifecycle management into one place. It is separate from VS Code but built on the same Electron/Chromium stack.
+
+The Linux build is available as an AppImage from the [github/app releases page](https://github.com/github/app/releases). The same WSLg technique described above works for it as well. Download the Linux x64 AppImage, make it executable, and create a similar shell function:
+
+```bash
+ghapp() {
+  local logfile="/tmp/ghapp-$(date +%Y%m%d-%H%M%S)-$$.log"
+  DBUS_SESSION_BUS_ADDRESS="disabled:" /home/cicorias/bin/GitHub-Copilot-linux-x64.AppImage --disable-gpu "$@" >"$logfile" 2>&1 &
+  disown
+}
+```
+
+The same flags apply: `disabled:` for the D-Bus session bus, `--disable-gpu` for reliable rendering under WSLg, and `/tmp` log redirection for debugging.
+
 ## References
 
 - [microsoft/vscode#307568 - Agent host: Support WSL connections](https://github.com/microsoft/vscode/issues/307568)
 - [WSLg on GitHub](https://github.com/microsoft/wslg)
 - [My comment on the issue](https://github.com/microsoft/vscode/issues/307568#issuecomment-4459787995)
+- [GitHub Copilot app technical preview announcement](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/)
+- [github/app - Releases and issue tracking](https://github.com/github/app)
