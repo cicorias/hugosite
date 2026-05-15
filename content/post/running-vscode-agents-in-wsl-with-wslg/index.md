@@ -45,6 +45,17 @@ lcode() {
 }
 ```
 
+>NOTE: Troubleshooting
+
+
+If you get errors looking for libs (look in /tmp/lcode* log files) need to add couple of libs
+
+```bash
+#for ubuntu 24.04
+sudo apt-get install libnspr4 libnss3 libasound2t64
+```
+
+
 A few things to note:
 
 - **`lcode`** is used instead of `code` to avoid shadowing the Windows VS Code command.
