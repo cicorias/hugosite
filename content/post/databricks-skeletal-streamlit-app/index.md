@@ -5,7 +5,7 @@ draft: false
 slug: "databricks-skeletal-streamlit-app"
 tags: ["databricks", "streamlit", "unity-catalog", "python", "databricks-apps"]
 summary: "A walkthrough of a skeletal Streamlit application running on Databricks Apps — covering its Makefile-driven setup, dual-auth strategy, layered data architecture with volumes, tables, materialized views, and SQL views, and the flexibility to run locally or deploy to the platform with a single command."
-image: /images/databricks.jpg
+feature_image: /images/databricks.jpg
 ---
 
 ![Databricks](/images/databricks.jpg)
