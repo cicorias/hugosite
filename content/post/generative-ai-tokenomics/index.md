@@ -7,9 +7,6 @@ tags: ["ai", "generative-ai", "economics", "coding-agents", "llm", "local-infere
 feature_image: "/images/2026/05/12/tokenomics-hero.jpg"
 summary: "Economics is the allocation of scarce resources. Tokens are becoming that scarce resource. As GenAI subsidies disappear and agentic workflows explode consumption, developers need to start thinking like economists."
 ---
-
-![Tokenomics](/images/2026/05/12/tokenomics-hero.jpg)
-
 Don't call it "Token Economics." It's **Tokenomics**. The distinction matters. Economics isn't about money. It's about the allocation of scarce resources under constraints. Tokens, the atomic unit of every LLM interaction, are rapidly becoming the most consequential constrained resource in software engineering. I have an Economics degree, and I've watched the same patterns that govern oil markets, labor pools, and bandwidth allocation replay themselves in the GenAI pricing landscape with startling precision. Scarcity, marginal cost, substitution effects, moral hazard: every concept from Econ 101 now applies directly to how we build and operate AI-powered software.
 
 The era of subsidized, all-you-can-eat AI is ending. What follows will reward those who think like economists.
