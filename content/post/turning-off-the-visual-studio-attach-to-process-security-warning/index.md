@@ -5,6 +5,7 @@ lastmod: 2012-04-12T02:00:57+0000
 slug: "turning-off-the-visual-studio-attach-to-process-security-warning"
 aliases:
   - /turning-off-the-visual-studio-attach-to-process-security-warning/
+feature_image: "/images/2012/04/turning-off-the-visual-studio-attach-to-process-security-war-hero.jpg"
 ---
 
 When you’re urnning under x64 you have to affect 1 addition spot in the registry to disable this warning – which clearly should only be done by folks that know what they’re doing.

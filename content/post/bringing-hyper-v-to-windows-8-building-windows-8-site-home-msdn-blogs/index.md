@@ -5,6 +5,7 @@ lastmod: 2011-09-07T10:49:50+0000
 slug: "bringing-hyper-v-to-windows-8-building-windows-8-site-home-msdn-blogs"
 aliases:
   - /bringing-hyper-v-to-windows-8-building-windows-8-site-home-msdn-blogs/
+feature_image: "/images/2011/09/bringing-hyper-v-to-windows-8-building-windows-8-site-home-m-hero.jpg"
 ---
 
 This is huge – and a welcomed addition.  Been waiting too long for this.

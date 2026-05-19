@@ -5,6 +5,7 @@ lastmod: 2011-05-16T10:04:00+0000
 slug: "state-machine-is-back"
 aliases:
   - /state-machine-is-back/
+feature_image: "/images/2011/05/state-machine-is-back-hero.jpg"
 ---
 
 With the NetFx 4.0 platform update, the WF state machine is back…

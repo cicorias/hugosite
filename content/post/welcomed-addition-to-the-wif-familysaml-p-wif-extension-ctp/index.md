@@ -5,6 +5,7 @@ lastmod: 2011-05-16T12:12:38+0000
 slug: "welcomed-addition-to-the-wif-familysaml-p-wif-extension-ctp"
 aliases:
   - /welcomed-addition-to-the-wif-familysaml-p-wif-extension-ctp/
+feature_image: "/images/2011/05/welcomed-addition-to-the-wif-familysaml-p-wif-extension-ctp-hero.jpg"
 ---
 
 This is a very nice addition and will make development across the various WebSSO protocols that much easier.

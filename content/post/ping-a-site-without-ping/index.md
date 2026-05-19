@@ -6,6 +6,7 @@ slug: "ping-a-site-without-ping"
 draft: true
 aliases:
   - /ping-a-site-without-ping/
+feature_image: "/images/2023/01/ping-a-site-without-ping-hero.jpg"
 ---
 
 ```

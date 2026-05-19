@@ -5,6 +5,7 @@ lastmod: 2010-11-08T23:39:43+0000
 slug: "free-ebook-programming-windows-phone-7-by-charles-petzold"
 aliases:
   - /free-ebook-programming-windows-phone-7-by-charles-petzold/
+feature_image: "/images/2010/11/free-ebook-programming-windows-phone-7-by-charles-petzold-hero.jpg"
 ---
 
 How many of us cut our teeth with a Petzold book on Windows?  Gee, I still have an OS/2 book on Presentation Manager from Mr. Petzold – pre-warp.

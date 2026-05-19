@@ -5,6 +5,7 @@ lastmod: 2009-02-16T15:22:26+0000
 slug: "sourcesafe-in-the-cloud-a-second-life-for-vss"
 aliases:
   - /sourcesafe-in-the-cloud-a-second-life-for-vss/
+feature_image: "/images/2009/02/sourcesafe-in-the-cloud-a-second-life-for-vss-hero.jpg"
 ---
 
 > ***This post in no way endorses the use of Visual Source Safe, Mesh, or general supportability of this approach.  This is entirely at your own risk….***

@@ -5,6 +5,7 @@ lastmod: 2015-07-01T11:07:42+0000
 slug: "cheap-and-easy-ip-blocking-in-azure-web-apps"
 aliases:
   - /cheap-and-easy-ip-blocking-in-azure-web-apps/
+feature_image: "/images/2015/07/cheap-and-easy-ip-blocking-in-azure-web-apps-hero.jpg"
 ---
 
 Sometimes you just need to resort to something simple.

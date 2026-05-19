@@ -5,6 +5,7 @@ lastmod: 2010-06-25T11:13:29+0000
 slug: "cant-see-the-appfabric-directory-on-x64-systems"
 aliases:
   - /cant-see-the-appfabric-directory-on-x64-systems/
+feature_image: "/images/2010/06/cant-see-the-appfabric-directory-on-x64-systems-hero.jpg"
 ---
 
 This is one I have to jot down.

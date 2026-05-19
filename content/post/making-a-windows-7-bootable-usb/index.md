@@ -5,6 +5,7 @@ lastmod: 2009-10-22T03:37:19+0000
 slug: "making-a-windows-7-bootable-usb"
 aliases:
   - /making-a-windows-7-bootable-usb/
+feature_image: "/images/2009/10/making-a-windows-7-bootable-usb-hero.jpg"
 ---
 
 This get’s even easier.  [The Microsoft store](http://store.microsoft.com) has released a utility that will, from an ISO (eg. one you get from the Microsoft Store) create a bootable USB flash drive.

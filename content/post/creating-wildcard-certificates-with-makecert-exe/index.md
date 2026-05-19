@@ -5,6 +5,7 @@ lastmod: 2011-06-28T14:14:24+0000
 slug: "creating-wildcard-certificates-with-makecert-exe"
 aliases:
   - /creating-wildcard-certificates-with-makecert-exe/
+feature_image: "/images/2011/06/creating-wildcard-certificates-with-makecert-exe-hero.jpg"
 ---
 
 Be nice to be able to make wildcard certificates for use in development with makecert – turns out, it’s real easy.  Just ensure that your CN=  is the wildcard string to use.

@@ -5,6 +5,7 @@ lastmod: 2010-06-27T02:50:13+0000
 slug: "visual-studio-2010-architecture-tooling-guidance-is-published"
 aliases:
   - /visual-studio-2010-architecture-tooling-guidance-is-published/
+feature_image: "/images/2010/06/visual-studio-2010-architecture-tooling-guidance-is-publishe-hero.jpg"
 ---
 
 Something that I had the privilege to review has been released.

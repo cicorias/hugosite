@@ -5,6 +5,7 @@ lastmod: 2012-02-04T01:52:42+0000
 slug: "learn-more-about-microsoft-codename-trust-services-technet-articles-home-technet-wiki"
 aliases:
   - /learn-more-about-microsoft-codename-trust-services-technet-articles-home-technet-wiki/
+feature_image: "/images/2012/02/learn-more-about-microsoft-codename-trust-services-technet-a-hero.jpg"
 ---
 
 Many companies, ISV’s, and solutions have concerns about data in the cloud.  With PKI based encryption, Trust Services provides key management for your publisher/subscribers and a simplified SDK set of classes to abstract the encryption, decryption process.  Both managed classes and PowerShell add-in provided...

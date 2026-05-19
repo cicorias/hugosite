@@ -5,6 +5,7 @@ lastmod: 2011-07-06T08:26:10+0000
 slug: "raffaele-rialdi-deploymanager-june-2011-editionnow-supports-san-certificates"
 aliases:
   - /raffaele-rialdi-deploymanager-june-2011-editionnow-supports-san-certificates/
+feature_image: "/images/2011/07/raffaele-rialdi-deploymanager-june-2011-editionnow-supports--hero.jpg"
 ---
 
 Raffaele Rialdi has been adding features to his certificate management tool.  Already supporting wildcard certificates, he’s now added SAN cert support.

@@ -5,6 +5,7 @@ lastmod: 2011-12-06T10:01:22+0000
 slug: "viewing-the-user-token-from-visual-studio-2010-debugger"
 aliases:
   - /viewing-the-user-token-from-visual-studio-2010-debugger/
+feature_image: "/images/2011/12/viewing-the-user-token-from-visual-studio-2010-debugger-hero.jpg"
 ---
 
 When you’re debugging security related things, sometimes you need to take a look at the thread identities user token.

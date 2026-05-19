@@ -6,6 +6,7 @@ slug: "bash-strict-mode"
 draft: true
 aliases:
   - /bash-strict-mode/
+feature_image: "/images/2023/01/bash-strict-mode-hero.jpg"
 ---
 
 [Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)[Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)

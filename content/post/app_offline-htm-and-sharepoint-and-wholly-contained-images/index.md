@@ -5,6 +5,7 @@ lastmod: 2010-06-08T10:24:51+0000
 slug: "app_offline-htm-and-sharepoint-and-wholly-contained-images"
 aliases:
   - /app_offline-htm-and-sharepoint-and-wholly-contained-images/
+feature_image: "/images/2010/06/appoffline-htm-and-sharepoint-and-wholly-contained-images-hero.jpg"
 ---
 
 The question came up today if we could use an “app\_offline.htm” file along with HTML in that file that would reference images.

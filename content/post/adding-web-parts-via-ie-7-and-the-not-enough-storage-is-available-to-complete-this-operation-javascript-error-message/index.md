@@ -5,6 +5,7 @@ lastmod: 2009-01-15T10:39:00+0000
 slug: "adding-web-parts-via-ie-7-and-the-not-enough-storage-is-available-to-complete-this-operation-javascript-error-message"
 aliases:
   - /adding-web-parts-via-ie-7-and-the-not-enough-storage-is-available-to-complete-this-operation-javascript-error-message/
+feature_image: "/images/2009/01/adding-web-parts-via-ie-7-and-the-not-enough-storage-is-avai-hero.jpg"
 ---
 
 Recently, installed a bunch of new Windows Live components such as Messenger, etc.

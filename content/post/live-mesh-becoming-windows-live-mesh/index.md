@@ -5,6 +5,7 @@ lastmod: 2010-09-13T10:49:29+0000
 slug: "live-mesh-becoming-windows-live-mesh"
 aliases:
   - /live-mesh-becoming-windows-live-mesh/
+feature_image: "/images/2010/09/live-mesh-becoming-windows-live-mesh-hero.jpg"
 ---
 
 Good to see it’s sticking around and most importantly, they’ve increased the initial 2 GB limit to match what we had on Live Mesh – 5 GB.

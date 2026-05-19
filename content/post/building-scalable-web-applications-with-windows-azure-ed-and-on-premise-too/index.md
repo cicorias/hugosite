@@ -5,6 +5,7 @@ lastmod: 2011-09-17T05:17:07+0000
 slug: "building-scalable-web-applications-with-windows-azure-ed-and-on-premise-too"
 aliases:
   - /building-scalable-web-applications-with-windows-azure-ed-and-on-premise-too/
+feature_image: "/images/2011/09/building-scalable-web-applications-with-windows-azure-ed-and-hero.jpg"
 ---
 
 Matthew Kerner’s session at BUILD covers many of the patterns and approaches that a well designed and highly scalable solution can do to make the most efficient use of the platform.

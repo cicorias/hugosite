@@ -5,6 +5,7 @@ lastmod: 2009-05-04T02:21:04+0000
 slug: "making-a-win7-bootable-usb-device"
 aliases:
   - /making-a-win7-bootable-usb-device/
+feature_image: "/images/2009/05/making-a-win7-bootable-usb-device-hero.jpg"
 ---
 
 I have an old Toshiba that has no optical drive.  To install Win7, I needed a bootable USB stick.  Here are the basic steps

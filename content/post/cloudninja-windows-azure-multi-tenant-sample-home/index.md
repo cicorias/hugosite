@@ -5,6 +5,7 @@ lastmod: 2011-05-18T01:42:15+0000
 slug: "cloudninja-windows-azure-multi-tenant-sample-home"
 aliases:
   - /cloudninja-windows-azure-multi-tenant-sample-home/
+feature_image: "/images/2011/05/cloudninja-windows-azure-multi-tenant-sample-home-hero.jpg"
 ---
 
 So, as one of the OneTAP leads for Windows Azure focusing on the BizSpark folks, I run into many questions regarding HOWTO and in areas of Auto-Scaling, provisioning, authentication.

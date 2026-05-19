@@ -6,6 +6,7 @@ slug: "using-terra-test-and-collection"
 draft: true
 aliases:
   - /using-terra-test-and-collection/
+feature_image: "/images/2023/02/using-terra-test-and-collection-hero.jpg"
 ---
 
 using the terratest module for collections – certificate generation

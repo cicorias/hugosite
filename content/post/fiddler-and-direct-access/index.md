@@ -5,6 +5,7 @@ lastmod: 2013-12-16T06:10:13+0000
 slug: "fiddler-and-direct-access"
 aliases:
   - /fiddler-and-direct-access/
+feature_image: "/images/2013/12/fiddler-and-direct-access-hero.jpg"
 ---
 
 Fiddler puts some stuff in the registry that breaks Direct Access.

@@ -5,6 +5,7 @@ lastmod: 2015-09-10T01:11:00+0000
 slug: "using-multiple-devices-for-2-step-verification-to-save-time"
 aliases:
   - /using-multiple-devices-for-2-step-verification-to-save-time/
+feature_image: "/images/2015/09/using-multiple-devices-for-2-step-verification-to-save-time-hero.jpg"
 ---
 
 [2-step verification](https://en.wikipedia.org/wiki/Multi-factor_authentication) is becoming more prevalent. This is the process where when you logon to a web site, or application, you might provide something you know (username & password) and then using a special "Authenticator" application that might be on your phone, keychain, or even your computer, you enter a challenge code.

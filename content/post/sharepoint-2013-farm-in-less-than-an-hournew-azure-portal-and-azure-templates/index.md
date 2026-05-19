@@ -5,6 +5,7 @@ lastmod: 2014-07-14T02:31:56+0000
 slug: "sharepoint-2013-farm-in-less-than-an-hournew-azure-portal-and-azure-templates"
 aliases:
   - /sharepoint-2013-farm-in-less-than-an-hournew-azure-portal-and-azure-templates/
+feature_image: "/images/2014/07/sharepoint-2013-farm-in-less-than-an-hournew-azure-portal-an-hero.jpg"
 ---
 
 Soon, you’ll be able to author your own templates, but as of today, you can provision an 3 Machine SharePoint 2013 Farm – have it running in less than 1 hour with just a few clicks.

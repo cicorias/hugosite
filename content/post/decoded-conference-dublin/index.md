@@ -5,6 +5,7 @@ lastmod: 2016-04-26T20:43:01+0000
 slug: "decoded-conference-dublin"
 aliases:
   - /decoded-conference-dublin/
+feature_image: "/images/2016/04/decoded-conference-dublin-hero.jpg"
 ---
 
 It's great to be part of a team, apparently called John Shewchuk's merry band of engineers, that's hosting this inaugural open source conference.

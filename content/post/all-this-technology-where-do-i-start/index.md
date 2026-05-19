@@ -5,6 +5,7 @@ lastmod: 2008-11-07T12:53:16+0000
 slug: "all-this-technology-where-do-i-start"
 aliases:
   - /all-this-technology-where-do-i-start/
+feature_image: "/images/2008/11/all-this-technology-where-do-i-start-hero.jpg"
 ---
 
 One this is for sure, there's plenty of materials on getting ramped on the Microsoft stack.

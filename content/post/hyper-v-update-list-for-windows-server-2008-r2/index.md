@@ -5,6 +5,7 @@ lastmod: 2010-06-19T01:05:19+0000
 slug: "hyper-v-update-list-for-windows-server-2008-r2"
 aliases:
   - /hyper-v-update-list-for-windows-server-2008-r2/
+feature_image: "/images/2010/06/hyper-v-update-list-for-windows-server-2008-r2-hero.jpg"
 ---
 
 Anytime you’re running the Hyper-V role, is a good place to check for any updates that may be affecting either performance or basic troubleshooting.

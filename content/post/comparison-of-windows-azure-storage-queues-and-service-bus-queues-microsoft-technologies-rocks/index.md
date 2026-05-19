@@ -5,6 +5,7 @@ lastmod: 2011-09-20T01:06:10+0000
 slug: "comparison-of-windows-azure-storage-queues-and-service-bus-queues-microsoft-technologies-rocks"
 aliases:
   - /comparison-of-windows-azure-storage-queues-and-service-bus-queues-microsoft-technologies-rocks/
+feature_image: "/images/2011/09/comparison-of-windows-azure-storage-queues-and-service-bus-q-hero.jpg"
 ---
 
 Nice table comparing Windows Azure Queues vs. Windows Azure AppFabric Service Bus – note the comment regarding in WAZ SDK 1.5 Queue message size is now 64KB

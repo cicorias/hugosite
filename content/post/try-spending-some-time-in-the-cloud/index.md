@@ -5,6 +5,7 @@ lastmod: 2009-02-13T03:59:43+0000
 slug: "try-spending-some-time-in-the-cloud"
 aliases:
   - /try-spending-some-time-in-the-cloud/
+feature_image: "/images/2009/02/try-spending-some-time-in-the-cloud-hero.jpg"
 ---
 
 Cloud services that is.  Windows Azure, .NET Services, Live Services….

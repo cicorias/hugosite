@@ -5,6 +5,7 @@ lastmod: 2011-09-18T01:45:15+0000
 slug: "slides-for-build-conference"
 aliases:
   - /slides-for-build-conference/
+feature_image: "/images/2011/09/slides-for-build-conference-hero.jpg"
 ---
 
 On the Channel 9 site where the BUILD conference sessions are available, there are several feeds that provide the media associated with the sessions.

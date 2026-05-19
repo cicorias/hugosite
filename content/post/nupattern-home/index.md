@@ -5,6 +5,7 @@ lastmod: 2013-05-03T02:38:20+0000
 slug: "nupattern-home"
 aliases:
   - /nupattern-home/
+feature_image: "/images/2013/05/nupattern-home-hero.jpg"
 ---
 
 More from the [OuterCurve](http://www.outercurve.org/) foundation:

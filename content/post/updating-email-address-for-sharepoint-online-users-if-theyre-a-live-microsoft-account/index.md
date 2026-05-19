@@ -5,6 +5,7 @@ lastmod: 2013-11-20T09:57:36+0000
 slug: "updating-email-address-for-sharepoint-online-users-if-theyre-a-live-microsoft-account"
 aliases:
   - /updating-email-address-for-sharepoint-online-users-if-theyre-a-live-microsoft-account/
+feature_image: "/images/2013/11/updating-email-address-for-sharepoint-online-users-if-theyre-hero.jpg"
 ---
 
 If you have a SharePoint online ()365) site, and you invite users that logon with a “Microsoft Account”, those users won’t be able to receive email.  Things such as alerts won’t work.

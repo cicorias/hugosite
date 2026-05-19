@@ -5,6 +5,7 @@ lastmod: 2009-11-11T06:59:32+0000
 slug: "minor-update-to-the-wss-command-prompt"
 aliases:
   - /minor-update-to-the-wss-command-prompt/
+feature_image: "/images/2009/11/minor-update-to-the-wss-command-prompt-hero.jpg"
 ---
 
 Take the following and paste into a VBS file – then run.

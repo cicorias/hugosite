@@ -5,6 +5,7 @@ lastmod: 2012-11-03T01:12:42+0000
 slug: "updating-your-tfs-service-urls-to-from-tfspreview-com-to-visualstudio-com"
 aliases:
   - /updating-your-tfs-service-urls-to-from-tfspreview-com-to-visualstudio-com/
+feature_image: "/images/2012/11/updating-your-tfs-service-urls-to-from-tfspreview-com-to-vis-hero.jpg"
 ---
 
 If you haven’t heard, TFS Service has gone live at <http://tfs.visualstudio.com/>.

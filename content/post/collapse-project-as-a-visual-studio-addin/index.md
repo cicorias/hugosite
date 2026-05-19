@@ -5,6 +5,7 @@ lastmod: 2010-02-23T08:40:59+0000
 slug: "collapse-project-as-a-visual-studio-addin"
 aliases:
   - /collapse-project-as-a-visual-studio-addin/
+feature_image: "/images/2010/02/collapse-project-as-a-visual-studio-addin-hero.jpg"
 ---
 
 I’ve taken that macro that’s been passed around for years, and put it into a VS Addin.

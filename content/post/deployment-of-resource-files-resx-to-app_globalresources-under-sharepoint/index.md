@@ -5,6 +5,7 @@ lastmod: 2010-01-31T05:45:43+0000
 slug: "deployment-of-resource-files-resx-to-app_globalresources-under-sharepoint"
 aliases:
   - /deployment-of-resource-files-resx-to-app_globalresources-under-sharepoint/
+feature_image: "/images/2010/01/deployment-of-resource-files-resx-to-appglobalresources-unde-hero.jpg"
 ---
 
 This is a continuation from

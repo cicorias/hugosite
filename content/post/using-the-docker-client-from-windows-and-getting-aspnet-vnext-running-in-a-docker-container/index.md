@@ -5,6 +5,7 @@ lastmod: 2014-11-23T09:46:32+0000
 slug: "using-the-docker-client-from-windows-and-getting-aspnet-vnext-running-in-a-docker-container"
 aliases:
   - /using-the-docker-client-from-windows-and-getting-aspnet-vnext-running-in-a-docker-container/
+feature_image: "/images/2014/11/using-the-docker-client-from-windows-and-getting-aspnet-vnex-hero.jpg"
 ---
 
 **Update: 2015-01-15** – Note that Ahmet has posted an official Docker walkthrough for ASP.NET 5 <http://blogs.msdn.com/b/webdev/archive/2015/01/14/running-asp-net-5-applications-in-linux-containers-with-docker.aspx>

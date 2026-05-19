@@ -5,6 +5,7 @@ lastmod: 2009-01-16T12:15:27+0000
 slug: "a-little-bit-more-on-the-issue-with-not-enough-storage-is-available-to-complete-the-operation"
 aliases:
   - /a-little-bit-more-on-the-issue-with-not-enough-storage-is-available-to-complete-the-operation/
+feature_image: "/images/2009/01/a-little-bit-more-on-the-issue-with-not-enough-storage-is-av-hero.jpg"
 ---
 
 OK.  When the …\User Agent\Post Platform key (explained in the prior post) has too many items and the total length exceeds 260 characters, what happens is the javascript function windows.navigator.userAgent reports back as MSIE 6.0.

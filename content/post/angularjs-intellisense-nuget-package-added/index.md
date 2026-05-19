@@ -5,6 +5,7 @@ lastmod: 2015-02-27T09:09:33+0000
 slug: "angularjs-intellisense-nuget-package-added"
 aliases:
   - /angularjs-intellisense-nuget-package-added/
+feature_image: "/images/2015/02/angularjs-intellisense-nuget-package-added-hero.jpg"
 ---
 
 Using the work of [John Bledsoe](https://twitter.com/jmbledsoe), a [NuGet](http://nuget.org) package has been added that takes a dependency on [AngularJS.Core](https://www.nuget.org/packages/AngularJS.Core/) – and provides the [angular.intellisense.js](https://raw.githubusercontent.com/jmbledsoe/angularjs-visualstudio-intellisense/master/src/Scripts/angular.intellisense.js) file to your project.

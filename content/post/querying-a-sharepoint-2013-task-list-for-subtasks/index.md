@@ -5,6 +5,7 @@ lastmod: 2013-02-28T11:11:01+0000
 slug: "querying-a-sharepoint-2013-task-list-for-subtasks"
 aliases:
   - /querying-a-sharepoint-2013-task-list-for-subtasks/
+feature_image: "/images/2013/02/querying-a-sharepoint-2013-task-list-for-subtasks-hero.jpg"
 ---
 
 The CAML for the query easily enough includes a ParentID reference.  However, if you’re spelunking around in SP 2013 using the OData services, you might have a hard time finding the ParentID field.

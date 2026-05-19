@@ -5,6 +5,7 @@ lastmod: 2014-11-24T03:51:24+0000
 slug: "running-the-aspnet-vnext-mvc-sample-direct-from-docker"
 aliases:
   - /running-the-aspnet-vnext-mvc-sample-direct-from-docker/
+feature_image: "/images/2014/11/running-the-aspnet-vnext-mvc-sample-direct-from-docker-hero.jpg"
 ---
 
 In the post

@@ -5,6 +5,7 @@ lastmod: 2010-03-11T04:26:34+0000
 slug: "copying-properties-between-2-different-types"
 aliases:
   - /copying-properties-between-2-different-types/
+feature_image: "/images/2010/03/copying-properties-between-2-different-types-hero.jpg"
 ---
 
 I’m not sure where I had seen some of this base code, but this comes up time & time again on projects.

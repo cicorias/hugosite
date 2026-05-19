@@ -5,6 +5,7 @@ lastmod: 2015-09-05T10:00:23+0000
 slug: "federation-metadata-generation-tool-on-github"
 aliases:
   - /federation-metadata-generation-tool-on-github/
+feature_image: "/images/2015/09/federation-metadata-generation-tool-on-github-hero.jpg"
 ---
 
 I get from various folks some requests for updates, information, etc. about this tool, so, I’ve put it up on Github so others can just contribute or copy as they see fit.

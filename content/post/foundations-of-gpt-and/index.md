@@ -6,6 +6,7 @@ slug: "foundations-of-gpt-and"
 draft: true
 aliases:
   - /foundations-of-gpt-and/
+feature_image: "/images/2023/05/foundations-of-gpt-and-hero.jpg"
 ---
 
 How is Linear Algebra the basis of Generative Adversarial Networks like GPT and Palm?

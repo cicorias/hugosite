@@ -5,6 +5,7 @@ lastmod: 2009-01-10T03:51:16+0000
 slug: "live-messenger-and-avg-grisoft-anti-virus-issue-8100030d"
 aliases:
   - /live-messenger-and-avg-grisoft-anti-virus-issue-8100030d/
+feature_image: "/images/2009/01/live-messenger-and-avg-grisoft-anti-virus-issue-8100030d-hero.jpg"
 ---
 
 If you’re running Grisoft AVG with Web Shield and trying the new Windows Live Messenger you might be experiencing connection issues.

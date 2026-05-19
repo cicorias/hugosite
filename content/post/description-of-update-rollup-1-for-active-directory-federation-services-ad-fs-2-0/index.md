@@ -5,6 +5,7 @@ lastmod: 2011-10-13T01:57:42+0000
 slug: "description-of-update-rollup-1-for-active-directory-federation-services-ad-fs-2-0"
 aliases:
   - /description-of-update-rollup-1-for-active-directory-federation-services-ad-fs-2-0/
+feature_image: "/images/2011/10/description-of-update-rollup-1-for-active-directory-federati-hero.jpg"
 ---
 
 Multiple UPN support now available…

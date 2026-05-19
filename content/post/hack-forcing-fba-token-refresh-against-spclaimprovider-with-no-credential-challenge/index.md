@@ -5,6 +5,7 @@ lastmod: 2011-06-15T09:48:33+0000
 slug: "hack-forcing-fba-token-refresh-against-spclaimprovider-with-no-credential-challenge"
 aliases:
   - /hack-forcing-fba-token-refresh-against-spclaimprovider-with-no-credential-challenge/
+feature_image: "/images/2011/06/hack-forcing-fba-token-refresh-against-spclaimprovider-with--hero.jpg"
 ---
 
 The approach takes advantage of the SP 2010 OOB Session Token handler and FBA claims provider implementation that during a period of token lifetime, if there is activity during the period of time that can be defined as "EW" in the image in the section "Background" below, that the **SPSecurityTokenManager** will, with the FBA provider, reissue a Session Token with new SessionToken **ValidTo** and **ValidFrom** times without forcing a re-challenge for user credentials (username and password).

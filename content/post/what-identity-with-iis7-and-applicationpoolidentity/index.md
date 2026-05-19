@@ -5,6 +5,7 @@ lastmod: 2009-12-24T05:13:50+0000
 slug: "what-identity-with-iis7-and-applicationpoolidentity"
 aliases:
   - /what-identity-with-iis7-and-applicationpoolidentity/
+feature_image: "/images/2009/12/what-identity-with-iis7-and-applicationpoolidentity-hero.jpg"
 ---
 
 With IIS7, we have a little bit more isolation with AppPool Identities

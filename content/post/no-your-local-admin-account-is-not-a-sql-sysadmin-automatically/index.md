@@ -5,6 +5,7 @@ lastmod: 2010-01-25T02:36:13+0000
 slug: "no-your-local-admin-account-is-not-a-sql-sysadmin-automatically"
 aliases:
   - /no-your-local-admin-account-is-not-a-sql-sysadmin-automatically/
+feature_image: "/images/2010/01/no-your-local-admin-account-is-not-a-sql-sysadmin-automatica-hero.jpg"
 ---
 
 There have been many times that I’ve been handed a SQL instance that doesn’t allow me to do much with it even though the IT Admin for the machine have indicated they’ve done the install and your AD account is part of the Local Admin group.

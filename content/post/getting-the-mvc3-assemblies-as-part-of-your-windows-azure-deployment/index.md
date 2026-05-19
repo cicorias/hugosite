@@ -5,6 +5,7 @@ lastmod: 2011-04-15T02:12:39+0000
 slug: "getting-the-mvc3-assemblies-as-part-of-your-windows-azure-deployment"
 aliases:
   - /getting-the-mvc3-assemblies-as-part-of-your-windows-azure-deployment/
+feature_image: "/images/2011/04/getting-the-mvc3-assemblies-as-part-of-your-windows-azure-de-hero.jpg"
 ---
 
 There have been several techniques that have been posted on getting the MVC3 reference assemblies deployed as part of your Windows Azure Solution.

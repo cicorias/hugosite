@@ -5,6 +5,7 @@ lastmod: 2014-11-17T04:55:15+0000
 slug: "useful-machine-learning-and-hdinsight-hadoop-links-posts-and-information"
 aliases:
   - /useful-machine-learning-and-hdinsight-hadoop-links-posts-and-information/
+feature_image: "/images/2014/11/useful-machine-learning-and-hdinsight-hadoop-links-posts-and-hero.jpg"
 ---
 
 ### Updates:

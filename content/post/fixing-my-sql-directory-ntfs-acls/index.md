@@ -5,6 +5,7 @@ lastmod: 2010-03-12T05:26:29+0000
 slug: "fixing-my-sql-directory-ntfs-acls"
 aliases:
   - /fixing-my-sql-directory-ntfs-acls/
+feature_image: "/images/2010/03/fixing-my-sql-directory-ntfs-acls-hero.jpg"
 ---
 
 I run my development server by boot to VHD (Windows Server 2008 R2 x64).  In that instance, I also have an attached VHD (I attach via script at boot up time using Task Scheduler).  That VHD I have my SQL instances installed.

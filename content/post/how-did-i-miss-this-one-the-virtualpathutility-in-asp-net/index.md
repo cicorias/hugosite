@@ -5,6 +5,7 @@ lastmod: 2009-12-04T05:11:21+0000
 slug: "how-did-i-miss-this-one-the-virtualpathutility-in-asp-net"
 aliases:
   - /how-did-i-miss-this-one-the-virtualpathutility-in-asp-net/
+feature_image: "/images/2009/12/how-did-i-miss-this-one-the-virtualpathutility-in-asp-net-hero.jpg"
 ---
 
 I’ve been writing one off methods that apparently are handled quite well for a few things in the type System.Web.VirtualPathUtility.

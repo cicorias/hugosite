@@ -5,6 +5,7 @@ lastmod: 2010-05-28T10:36:23+0000
 slug: "strings-are-utf-16-there-is-an-error-in-xml-document-1-1"
 aliases:
   - /strings-are-utf-16-there-is-an-error-in-xml-document-1-1/
+feature_image: "/images/2010/05/strings-are-utf-16-there-is-an-error-in-xml-document-1-1-hero.jpg"
 ---
 
 I had a situation today where an xml document had a directive indicating it was utf-8.  So, the code in question was reading in the “string” of that xml then attempting to de-serialize it using an Xsd generated type.

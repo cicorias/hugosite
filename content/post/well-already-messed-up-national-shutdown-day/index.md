@@ -5,6 +5,7 @@ lastmod: 2008-05-03T03:36:00+0000
 slug: "well-already-messed-up-national-shutdown-day"
 aliases:
   - /well-already-messed-up-national-shutdown-day/
+feature_image: "/images/2008/05/well-already-messed-up-national-shutdown-day-hero.jpg"
 ---
 
 I had heard on the radio a short blurb about "National Shutdown Day" being Saturday May 3rd (today).  Only problem is I didn't hear about what we were shutting down.  I had initially thought it was something like "National Lights Out day" (which I also missed).

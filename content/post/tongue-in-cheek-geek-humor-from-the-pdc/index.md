@@ -5,6 +5,7 @@ lastmod: 2009-11-17T00:37:15+0000
 slug: "tongue-in-cheek-geek-humor-from-the-pdc"
 aliases:
   - /tongue-in-cheek-geek-humor-from-the-pdc/
+feature_image: "/images/2009/11/tongue-in-cheek-geek-humor-from-the-pdc-hero.jpg"
 ---
 
 An old colleague ([Biff Gaut](http://biffgaut.com/)) of mine has a great daily newsletter from the PDC.  This is certainly targeted for those of us looking for a “light” look at all things new that come out of PDC, but at times very technical with a perspective from someone who has been in the industry for some time (20+ years), started off as a C or C++ developer (not sure how early as I started with C/ASM).

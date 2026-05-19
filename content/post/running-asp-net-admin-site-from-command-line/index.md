@@ -5,6 +5,7 @@ lastmod: 2013-09-26T12:29:48+0000
 slug: "running-asp-net-admin-site-from-command-line"
 aliases:
   - /running-asp-net-admin-site-from-command-line/
+feature_image: "/images/2013/09/running-asp-net-admin-site-from-command-line-hero.jpg"
 ---
 
 Great tip from Dominic Baer.

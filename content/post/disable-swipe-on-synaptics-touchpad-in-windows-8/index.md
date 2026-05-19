@@ -5,6 +5,7 @@ lastmod: 2013-01-28T23:20:00+0000
 slug: "disable-swipe-on-synaptics-touchpad-in-windows-8"
 aliases:
   - /disable-swipe-on-synaptics-touchpad-in-windows-8/
+feature_image: "/images/2013/01/disable-swipe-on-synaptics-touchpad-in-windows-8-hero.jpg"
 ---
 
 If you're using a touchpad on a laptop, like me with some fat fingers, the swip action is actually quite intrusive.  you can turn if off with the following

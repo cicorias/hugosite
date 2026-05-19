@@ -5,6 +5,7 @@ lastmod: 2011-11-30T02:26:08+0000
 slug: "microsoft-technetcreate-pdf-takeaway-chapters-for-your-set-of-topicsgreat-feature-just-added"
 aliases:
   - /microsoft-technetcreate-pdf-takeaway-chapters-for-your-set-of-topicsgreat-feature-just-added/
+feature_image: "/images/2011/11/microsoft-technetcreate-pdf-takeaway-chapters-for-your-set-o-hero.jpg"
 ---
 
 If you’re like me, having those PDF version for offline review are great.  It was a pain before as I had to individually print web pages to single PDF using tools.

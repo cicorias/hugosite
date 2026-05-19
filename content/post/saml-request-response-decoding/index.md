@@ -5,6 +5,7 @@ lastmod: 2011-01-29T00:59:43+0000
 slug: "saml-request-response-decoding"
 aliases:
   - /saml-request-response-decoding/
+feature_image: "/images/2011/01/saml-request-response-decoding-hero.jpg"
 ---
 
 When you’re working with Web SSO integration, sometimes it’s helpful to be able to decode the tokens that get passed around via the browser from the various participants in the trust – RP, STS, etc.

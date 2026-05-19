@@ -5,6 +5,7 @@ lastmod: 2010-06-10T13:03:42+0000
 slug: "spaces-in-type-attribute-for-behavior-extension-configuration-issues"
 aliases:
   - /spaces-in-type-attribute-for-behavior-extension-configuration-issues/
+feature_image: "/images/2010/06/spaces-in-type-attribute-for-behavior-extension-configuratio-hero.jpg"
 ---
 
 If you’ve deployed your WCF Behavior Extension, and you get a Configuration Error, it might just be you’re lacking a space between your “Type” name and the “Assembly” name.

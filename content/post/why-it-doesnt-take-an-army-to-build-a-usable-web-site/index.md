@@ -5,6 +5,7 @@ lastmod: 2013-11-17T05:39:36+0000
 slug: "why-it-doesnt-take-an-army-to-build-a-usable-web-site"
 aliases:
   - /why-it-doesnt-take-an-army-to-build-a-usable-web-site/
+feature_image: "/images/2013/11/why-it-doesnt-take-an-army-to-build-a-usable-web-site-hero.jpg"
 ---
 
 We should hopefully learn a lesson from how <http://healthcare.gov> was build vs. <http://www.thehealthsherpa.com/>

@@ -6,6 +6,7 @@ slug: "azure-functions-and-local-testing-of-non-http-event-hubs-service-bus-even
 draft: true
 aliases:
   - /azure-functions-and-local-testing-of-non-http-event-hubs-service-bus-event-grid-bindigs/
+feature_image: "/images/2022/10/azure-functions-and-local-testing-of-non-http-event-hubs-ser-hero.jpg"
 ---
 
 The magical endpoint and format.

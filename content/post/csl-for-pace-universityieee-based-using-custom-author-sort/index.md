@@ -5,6 +5,7 @@ lastmod: 2015-07-12T06:38:08+0000
 slug: "csl-for-pace-universityieee-based-using-custom-author-sort"
 aliases:
   - /csl-for-pace-universityieee-based-using-custom-author-sort/
+feature_image: "/images/2015/07/csl-for-pace-universityieee-based-using-custom-author-sort-hero.jpg"
 ---
 
 ```

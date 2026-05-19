@@ -5,6 +5,7 @@ lastmod: 2013-04-28T10:30:13+0000
 slug: "spelunking-with-the-sharepoint-2013-app-appcontext-tokens-and-standardtokens"
 aliases:
   - /spelunking-with-the-sharepoint-2013-app-appcontext-tokens-and-standardtokens/
+feature_image: "/images/2013/04/spelunking-with-the-sharepoint-2013-app-appcontext-tokens-an-hero.jpg"
 ---
 
 When writing SharePoint 2013 Provider hosted (autohosted too), SharePoint 2013 Apps provide an App context token, along with other information as part of the initial transition to the provider.  That token, and supporting “tokens” (part of the {standardtoken}) are useful to understand what you have and what you can do wit them.

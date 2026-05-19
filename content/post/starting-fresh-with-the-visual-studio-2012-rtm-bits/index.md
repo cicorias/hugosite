@@ -5,6 +5,7 @@ lastmod: 2012-08-19T02:20:58+0000
 slug: "starting-fresh-with-the-visual-studio-2012-rtm-bits"
 aliases:
   - /starting-fresh-with-the-visual-studio-2012-rtm-bits/
+feature_image: "/images/2012/08/starting-fresh-with-the-visual-studio-2012-rtm-bits-hero.jpg"
 ---
 
 Sometimes you can’t do a clean install of the OS and move to Win8 RTM.  One of my machines I’ll be using for an ongoing project it’s in that “perfect” operating mode – except for the RC versions of Visual Studio 2012.

@@ -5,6 +5,7 @@ lastmod: 2010-08-18T15:13:28+0000
 slug: "federation-metadata-generation-tool"
 aliases:
   - /federation-metadata-generation-tool/
+feature_image: "/images/2010/08/federation-metadata-generation-tool-hero.jpg"
 ---
 
 ***Disclaimer: Use at your own risk – no warranties are granted or implied***

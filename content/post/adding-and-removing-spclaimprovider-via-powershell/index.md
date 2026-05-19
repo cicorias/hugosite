@@ -5,6 +5,7 @@ lastmod: 2011-06-09T08:51:52+0000
 slug: "adding-and-removing-spclaimprovider-via-powershell"
 aliases:
   - /adding-and-removing-spclaimprovider-via-powershell/
+feature_image: "/images/2011/06/adding-and-removing-spclaimprovider-via-powershell-hero.jpg"
 ---
 
 There are really 2 ways to get a SPClaimProvider registered – 1 via a Farm Feature activation.  The other is via PowerShell.

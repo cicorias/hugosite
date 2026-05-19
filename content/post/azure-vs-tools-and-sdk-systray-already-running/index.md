@@ -5,6 +5,7 @@ lastmod: 2011-03-02T13:25:47+0000
 slug: "azure-vs-tools-and-sdk-systray-already-running"
 aliases:
   - /azure-vs-tools-and-sdk-systray-already-running/
+feature_image: "/images/2011/03/azure-vs-tools-and-sdk-systray-already-running-hero.jpg"
 ---
 
 If you are getting a message when you start the Compute Emulator “Systray already running…” from within Visual Studio one fix is to check what the image name is loading is.

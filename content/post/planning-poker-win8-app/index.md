@@ -5,6 +5,7 @@ lastmod: 2013-06-26T03:39:19+0000
 slug: "planning-poker-win8-app"
 aliases:
   - /planning-poker-win8-app/
+feature_image: "/images/2013/06/planning-poker-win8-app-hero.jpg"
 ---
 
 Check out an in process App for Win 8 that makes use of TFS OData for planning poker

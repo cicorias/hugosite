@@ -5,6 +5,7 @@ lastmod: 2012-03-22T10:23:04+0000
 slug: "getting-a-securitytoken-from-a-requestsecuritytokenresponse-in-wif"
 aliases:
   - /getting-a-securitytoken-from-a-requestsecuritytokenresponse-in-wif/
+feature_image: "/images/2012/03/getting-a-securitytoken-from-a-requestsecuritytokenresponse--hero.jpg"
 ---
 
 When you’re working with WIF and WSTrustChannelFactory when you call the Issue operation, you can also request that a RequestSecurityTokenResponse as an out parameter.

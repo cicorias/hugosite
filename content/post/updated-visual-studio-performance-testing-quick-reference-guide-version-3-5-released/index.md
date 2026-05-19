@@ -5,6 +5,7 @@ lastmod: 2010-08-02T03:48:06+0000
 slug: "updated-visual-studio-performance-testing-quick-reference-guide-version-3-5-released"
 aliases:
   - /updated-visual-studio-performance-testing-quick-reference-guide-version-3-5-released/
+feature_image: "/images/2010/08/updated-visual-studio-performance-testing-quick-reference-gu-hero.jpg"
 ---
 
 Make sure, for today at least, you navigate to “Downloads” instead of using the quick link on the right side.

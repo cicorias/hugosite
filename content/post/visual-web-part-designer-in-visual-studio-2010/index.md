@@ -5,6 +5,7 @@ lastmod: 2009-10-03T02:28:35+0000
 slug: "visual-web-part-designer-in-visual-studio-2010"
 aliases:
   - /visual-web-part-designer-in-visual-studio-2010/
+feature_image: "/images/2009/10/visual-web-part-designer-in-visual-studio-2010-hero.jpg"
 ---
 
 In the October edition of MSDN Magazine, there’s a great article that does a quick rundown of building a component that can be surfaced as a Web Part via the Gallery and placed in Web Part zones on pages.

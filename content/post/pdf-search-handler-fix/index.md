@@ -5,6 +5,7 @@ lastmod: 2014-12-11T04:46:59+0000
 slug: "pdf-search-handler-fix"
 aliases:
   - /pdf-search-handler-fix/
+feature_image: "/images/2014/12/pdf-search-handler-fix-hero.jpg"
 ---
 
 Adobe keeps breaking my PDF search.  WHY WHY WHY…

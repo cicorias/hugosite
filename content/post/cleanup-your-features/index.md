@@ -5,6 +5,7 @@ lastmod: 2009-11-11T07:36:52+0000
 slug: "cleanup-your-features"
 aliases:
   - /cleanup-your-features/
+feature_image: "/images/2009/11/cleanup-your-features-hero.jpg"
 ---
 
 Many times, your coding, etc. SharePoint features.  You’ll code something up, deploy, activate, etc.

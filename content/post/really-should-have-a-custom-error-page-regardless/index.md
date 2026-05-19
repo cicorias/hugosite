@@ -5,6 +5,7 @@ lastmod: 2010-09-19T12:39:34+0000
 slug: "really-should-have-a-custom-error-page-regardless"
 aliases:
   - /really-should-have-a-custom-error-page-regardless/
+feature_image: "/images/2010/09/really-should-have-a-custom-error-page-regardless-hero.jpg"
 ---
 
 Throughout the blogosphere there’s been reports of an issue with ASP.NET that will bring a site to it’s knees – or so, it’s been overblown and reported as such.

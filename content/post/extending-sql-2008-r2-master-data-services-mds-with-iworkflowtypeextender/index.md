@@ -5,6 +5,7 @@ lastmod: 2010-11-14T08:57:30+0000
 slug: "extending-sql-2008-r2-master-data-services-mds-with-iworkflowtypeextender"
 aliases:
   - /extending-sql-2008-r2-master-data-services-mds-with-iworkflowtypeextender/
+feature_image: "/images/2010/11/extending-sql-2008-r2-master-data-services-mds-with-iworkflo-hero.jpg"
 ---
 
 During hierarchy changes, MDS provides some basic rules for validating hierarchy members against some logic that is defined in the model within the MDS interface or through the Services interface.  Behind the scenes, MDS is generating all sorts of T-SQL to ultimately enforce these rules.

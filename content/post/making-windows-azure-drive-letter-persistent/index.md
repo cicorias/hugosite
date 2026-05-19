@@ -5,6 +5,7 @@ lastmod: 2012-01-19T07:42:31+0000
 slug: "making-windows-azure-drive-letter-persistent"
 aliases:
   - /making-windows-azure-drive-letter-persistent/
+feature_image: "/images/2012/01/making-windows-azure-drive-letter-persistent-hero.jpg"
 ---
 
 Windows Azure Fieldnote

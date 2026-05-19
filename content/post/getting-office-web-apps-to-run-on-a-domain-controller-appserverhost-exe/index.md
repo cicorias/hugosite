@@ -5,6 +5,7 @@ lastmod: 2011-04-14T14:50:55+0000
 slug: "getting-office-web-apps-to-run-on-a-domain-controller-appserverhost-exe"
 aliases:
   - /getting-office-web-apps-to-run-on-a-domain-controller-appserverhost-exe/
+feature_image: "/images/2011/04/getting-office-web-apps-to-run-on-a-domain-controller-appser-hero.jpg"
 ---
 
 I recall we had a similar issue when running document conversion services.

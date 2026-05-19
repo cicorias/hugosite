@@ -5,6 +5,7 @@ lastmod: 2011-01-13T06:20:01+0000
 slug: "asp-net-mvc3-webmatrix-nuget-sql-compact-4all-released"
 aliases:
   - /asp-net-mvc3-webmatrix-nuget-sql-compact-4all-released/
+feature_image: "/images/2011/01/asp-net-mvc3-webmatrix-nuget-sql-compact-4all-released-hero.jpg"
 ---
 
 Along with the release of WebMatrix announced here..

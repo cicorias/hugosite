@@ -5,6 +5,7 @@ lastmod: 2014-01-31T06:51:05+0000
 slug: "wopi-host-sample-has-been-updated"
 aliases:
   - /wopi-host-sample-has-been-updated/
+feature_image: "/images/2014/01/wopi-host-sample-has-been-updated-hero.jpg"
 ---
 
 **The solution and project have been updated to MVC5, and Web API 2.  In addition, editing PowerPoint (PPTX), and Excel files has been added.  Word Editing is not part of the solution. Also, PDF viewing is enabled.**

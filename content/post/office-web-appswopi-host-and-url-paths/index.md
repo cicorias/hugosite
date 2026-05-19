@@ -5,6 +5,7 @@ lastmod: 2013-06-24T10:37:45+0000
 slug: "office-web-appswopi-host-and-url-paths"
 aliases:
   - /office-web-appswopi-host-and-url-paths/
+feature_image: "/images/2013/06/office-web-appswopi-host-and-url-paths-hero.jpg"
 ---
 
 If you’re following along with the post on creating a WOPI host, it’s never fully apparent that you MUST adhere to the path shown in the article here:

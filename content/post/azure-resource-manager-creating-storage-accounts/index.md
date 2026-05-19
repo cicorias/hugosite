@@ -5,6 +5,7 @@ lastmod: 2015-02-09T09:09:43+0000
 slug: "azure-resource-manager-creating-storage-accounts"
 aliases:
   - /azure-resource-manager-creating-storage-accounts/
+feature_image: "/images/2015/02/azure-resource-manager-creating-storage-accounts-hero.jpg"
 ---
 
 **NOTE**: [Azure Resource](https://msdn.microsoft.com/en-us/library/azure/dn790568.aspx) manager is in Preview. Thus, anything posted here may change. However, the approach for identifying what resources are available updatable, and registered for Subscriptions should be the same.

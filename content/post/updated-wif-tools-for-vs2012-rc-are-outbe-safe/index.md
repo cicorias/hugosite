@@ -5,6 +5,7 @@ lastmod: 2012-06-20T01:15:12+0000
 slug: "updated-wif-tools-for-vs2012-rc-are-outbe-safe"
 aliases:
   - /updated-wif-tools-for-vs2012-rc-are-outbe-safe/
+feature_image: "/images/2012/06/updated-wif-tools-for-vs2012-rc-are-outbe-safe-hero.jpg"
 ---
 
 The updated tools for the RC along with the samples are out.  The samples from the prior 1.0 release will still work as well

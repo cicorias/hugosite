@@ -5,6 +5,7 @@ lastmod: 2015-01-14T06:31:05+0000
 slug: "running-asp-net-5-applications-in-linux-containers-with-docker"
 aliases:
   - /running-asp-net-5-applications-in-linux-containers-with-docker/
+feature_image: "/images/2015/01/running-asp-net-5-applications-in-linux-containers-with-dock-hero.jpg"
 ---
 
 Ahmet has ([@ahmetalpbalkan](https://twitter.com/ahmetalpbalkan "@ahmetalpbalkan")) posted an official walkthrough on getting ASP.NET 5 running under Docker in Linux.  This takes you from a Docker client running on a Linux or OS X machine against an Docker image in Azure…

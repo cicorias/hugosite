@@ -5,6 +5,7 @@ lastmod: 2008-12-03T02:49:42+0000
 slug: "emitting-xml-via-linq"
 aliases:
   - /emitting-xml-via-linq/
+feature_image: "/images/2008/12/emitting-xml-via-linq-hero.jpg"
 ---
 
 Just posted about reading XML via LINQ. Now, this post is about the opposite direction - emitting XML from a collection. The simplicity of LINQ provides a straightforward interaction with XML makes LINQ to XML for me one of the easiest and most natural ways to interact with XML.

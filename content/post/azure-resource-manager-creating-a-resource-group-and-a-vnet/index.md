@@ -5,6 +5,7 @@ lastmod: 2015-02-09T08:48:23+0000
 slug: "azure-resource-manager-creating-a-resource-group-and-a-vnet"
 aliases:
   - /azure-resource-manager-creating-a-resource-group-and-a-vnet/
+feature_image: "/images/2015/02/azure-resource-manager-creating-a-resource-group-and-a-vnet-hero.jpg"
 ---
 
 **NOTE:** Azure Resource manager is in Preview. Thus, anything posted here may change. However, the approach for identifying what resources are available updatable, and registered for Subscriptions should be the same.

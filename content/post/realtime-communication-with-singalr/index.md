@@ -5,6 +5,7 @@ lastmod: 2012-11-02T00:41:01+0000
 slug: "realtime-communication-with-singalr"
 aliases:
   - /realtime-communication-with-singalr/
+feature_image: "/images/2012/11/realtime-communication-with-singalr-hero.jpg"
 ---
 
 The upcoming Fall Release of VS2012 has some really great updates, bringing back OData, SPA, and now SingnalR.

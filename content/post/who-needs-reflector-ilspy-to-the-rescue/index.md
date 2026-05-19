@@ -5,6 +5,7 @@ lastmod: 2011-05-05T10:21:41+0000
 slug: "who-needs-reflector-ilspy-to-the-rescue"
 aliases:
   - /who-needs-reflector-ilspy-to-the-rescue/
+feature_image: "/images/2011/05/who-needs-reflector-ilspy-to-the-rescue-hero.jpg"
 ---
 
 Reflector has been invaluable over the years.  I’m torn about the idea it’s become a paid for tool, and by all means folks should be compensated for great work.  Not sure where Lutz is in the cash flow.

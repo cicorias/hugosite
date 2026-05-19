@@ -5,6 +5,7 @@ lastmod: 2013-03-17T04:07:59+0000
 slug: "take-a-brief-look-at-the-agile-management-features-in-tfs-2012"
 aliases:
   - /take-a-brief-look-at-the-agile-management-features-in-tfs-2012/
+feature_image: "/images/2013/03/take-a-brief-look-at-the-agile-management-features-in-tfs-20-hero.jpg"
 ---
 
 [http://msdn.microsoft.com/en-us/magazine/dn189203.aspx](http://msdn.microsoft.com/en-us/magazine/dn189203.aspx "http://msdn.microsoft.com/en-us/magazine/dn189203.aspx")

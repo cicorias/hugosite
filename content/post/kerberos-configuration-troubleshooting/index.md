@@ -5,6 +5,7 @@ lastmod: 2009-02-26T03:17:42+0000
 slug: "kerberos-configuration-troubleshooting"
 aliases:
   - /kerberos-configuration-troubleshooting/
+feature_image: "/images/2009/02/kerberos-configuration-troubleshooting-hero.jpg"
 ---
 
 I wanted to post about one of the best tools I’ve found for getting Kerberos properly configured and in the process getting some great HOWTO information on Kerberos, how it works, etc.

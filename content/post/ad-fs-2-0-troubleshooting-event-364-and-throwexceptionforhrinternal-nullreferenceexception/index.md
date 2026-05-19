@@ -5,6 +5,7 @@ lastmod: 2011-03-04T07:18:28+0000
 slug: "ad-fs-2-0-troubleshooting-event-364-and-throwexceptionforhrinternal-nullreferenceexception"
 aliases:
   - /ad-fs-2-0-troubleshooting-event-364-and-throwexceptionforhrinternal-nullreferenceexception/
+feature_image: "/images/2011/03/ad-fs-2-0-troubleshooting-event-364-and-throwexceptionforhri-hero.jpg"
 ---
 
 Ran into a situation today where after AD FS federation server was installed, configured and up & running, “all of a sudden” it stopped working.

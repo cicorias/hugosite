@@ -5,6 +5,7 @@ lastmod: 2010-04-01T07:36:05+0000
 slug: "performance-testing-quick-reference-guide-released-up-on-codeplex"
 aliases:
   - /performance-testing-quick-reference-guide-released-up-on-codeplex/
+feature_image: "/images/2010/04/performance-testing-quick-reference-guide-released-up-on-cod-hero.jpg"
 ---
 
 Why performance test at all right?  Well, physics still plays a role in what we do.  Why not take a better look at your application – need help, well, the Rangers team just released the following to help:

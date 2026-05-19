@@ -5,6 +5,7 @@ lastmod: 2009-01-13T03:17:26+0000
 slug: "welcomed-updates-to-vsewss-now-x64-support"
 aliases:
   - /welcomed-updates-to-vsewss-now-x64-support/
+feature_image: "/images/2009/01/welcomed-updates-to-vsewss-now-x64-support-hero.jpg"
 ---
 
 If you’ve been running x64 WSS/MOSS in development VSeWSS has been a challenge (wouldn’t install – albeit I believe the Bamboo solutions folks had some hack…)

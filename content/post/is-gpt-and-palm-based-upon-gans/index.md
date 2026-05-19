@@ -6,6 +6,7 @@ slug: "is-gpt-and-palm-based-upon-gans"
 draft: true
 aliases:
   - /is-gpt-and-palm-based-upon-gans/
+feature_image: "/images/2023/05/is-gpt-and-palm-based-upon-gans-hero.jpg"
 ---
 
 How does PaLM and GPT relate to Generative Adversarial Networks?

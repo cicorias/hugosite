@@ -6,6 +6,7 @@ slug: "terraform-azure-key-vault-pem-certificate-files"
 draft: true
 aliases:
   - /terraform-azure-key-vault-pem-certificate-files/
+feature_image: "/images/2023/01/terraform-azure-key-vault-pem-certificate-files-hero.jpg"
 ---
 
 ```

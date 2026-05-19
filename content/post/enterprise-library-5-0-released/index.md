@@ -5,6 +5,7 @@ lastmod: 2010-04-21T02:01:02+0000
 slug: "enterprise-library-5-0-released"
 aliases:
   - /enterprise-library-5-0-released/
+feature_image: "/images/2010/04/enterprise-library-5-0-released-hero.jpg"
 ---
 
 The announcement is up here:

@@ -5,6 +5,7 @@ lastmod: 2010-01-31T05:33:01+0000
 slug: "deployment-of-theme-and-resource-files-via-feature-timer-jobs"
 aliases:
   - /deployment-of-theme-and-resource-files-via-feature-timer-jobs/
+feature_image: "/images/2010/01/deployment-of-theme-and-resource-files-via-feature-timer-job-hero.jpg"
 ---
 
 Recently, we had a deployment scenario where we needed to deploy a custom theme and some resource files (resx) to the Farm and the Web Application zones respectively.

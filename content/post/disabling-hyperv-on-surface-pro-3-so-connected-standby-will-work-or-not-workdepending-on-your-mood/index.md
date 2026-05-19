@@ -5,6 +5,7 @@ lastmod: 2014-06-23T00:19:51+0000
 slug: "disabling-hyperv-on-surface-pro-3-so-connected-standby-will-work-or-not-workdepending-on-your-mood"
 aliases:
   - /disabling-hyperv-on-surface-pro-3-so-connected-standby-will-work-or-not-workdepending-on-your-mood/
+feature_image: "/images/2014/06/disabling-hyperv-on-surface-pro-3-so-connected-standby-will--hero.jpg"
 ---
 
 If you’re received your SP3 and you enabled HyperV you may have noticed that Connected Standby (new to x64) will then be disabled.

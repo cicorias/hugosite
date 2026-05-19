@@ -5,6 +5,7 @@ lastmod: 2009-11-17T05:24:20+0000
 slug: "sharepoint-2007-and-infopath-2010-client-current-install-issues"
 aliases:
   - /sharepoint-2007-and-infopath-2010-client-current-install-issues/
+feature_image: "/images/2009/11/sharepoint-2007-and-infopath-2010-client-current-install-iss-hero.jpg"
 ---
 
 Ok, I’ve been bitten twice in the past week on this.  If you have InfoPath 2010 Beta installed and you’ve also got SharePoint 2007 running, at least with the latest SP2 and October CU, you run into an issue that surfaces in the logs as follows

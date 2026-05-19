@@ -5,6 +5,7 @@ lastmod: 2013-05-03T02:16:14+0000
 slug: "using-s2s-for-on-premises-access-with-forms-based-access-fba-in-sharepoint-2013"
 aliases:
   - /using-s2s-for-on-premises-access-with-forms-based-access-fba-in-sharepoint-2013/
+feature_image: "/images/2013/05/using-s2s-for-on-premises-access-with-forms-based-access-fba-hero.jpg"
 ---
 
 The below diagram represents the flow and interaction when a user, from an external application, makes a OAuth protected call to a SharePoint site. This approach allows for delegated authentication, and since the SharePoint and the external application “can” (they don’t have to) share the Identity Store, we maintain the integrity of the “only 1 identity”.

@@ -5,6 +5,7 @@ lastmod: 2011-01-07T08:21:24+0000
 slug: "adfs-v2-rules-languagegreat-short-video"
 aliases:
   - /adfs-v2-rules-languagegreat-short-video/
+feature_image: "/images/2011/01/adfs-v2-rules-languagegreat-short-video-hero.jpg"
 ---
 
 The following video does a great overview of the rule language in ADFS v2.  Just 5 minutes to get you started…

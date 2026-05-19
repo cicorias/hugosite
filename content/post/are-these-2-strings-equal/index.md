@@ -5,6 +5,7 @@ lastmod: 2011-01-07T08:03:18+0000
 slug: "are-these-2-strings-equal"
 aliases:
   - /are-these-2-strings-equal/
+feature_image: "/images/2011/01/are-these-2-strings-equal-hero.jpg"
 ---
 
 I spent way too many hours on this one. I was going through full configuration of ADFS v2 with WCF active client scenarios and using self generated certificates, had all things lined up perfectly.  Using the certificate snap in I just copied the thumbprint into the IdentityModel section (trusted issuers) in my service config.

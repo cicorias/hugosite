@@ -5,6 +5,7 @@ lastmod: 2011-03-14T13:39:36+0000
 slug: "differences-when-running-with-outputcache-managed-module-under-asp-net-iis7-x-with-cache-control-header"
 aliases:
   - /differences-when-running-with-outputcache-managed-module-under-asp-net-iis7-x-with-cache-control-header/
+feature_image: "/images/2011/03/differences-when-running-with-outputcache-managed-module-und-hero.jpg"
 ---
 
 This post is to report some differences when using MVC or IHttpHandlers if you’re attempting to set the Cache-control : max-age or s-maxage value under IIS7.x using the HttpResponse.Cache methods.

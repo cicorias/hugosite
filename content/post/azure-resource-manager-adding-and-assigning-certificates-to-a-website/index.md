@@ -5,6 +5,7 @@ lastmod: 2015-01-31T06:30:55+0000
 slug: "azure-resource-manager-adding-and-assigning-certificates-to-a-website"
 aliases:
   - /azure-resource-manager-adding-and-assigning-certificates-to-a-website/
+feature_image: "/images/2015/01/azure-resource-manager-adding-and-assigning-certificates-to--hero.jpg"
 ---
 
 ## Overview

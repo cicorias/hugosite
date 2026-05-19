@@ -5,6 +5,7 @@ lastmod: 2008-10-22T12:48:31+0000
 slug: "installing-wcf-ctp-extensions-with-vs-2005-after-net-3-0-service-packs"
 aliases:
   - /installing-wcf-ctp-extensions-with-vs-2005-after-net-3-0-service-packs/
+feature_image: "/images/2008/10/installing-wcf-ctp-extensions-with-vs-2005-after-net-3-0-ser-hero.jpg"
 ---
 
 If you're installing Visual Studio 2005 and need the WCF CTP Extensions, BUT you've already installed .NET 3.0 with service packs, the installer fails.

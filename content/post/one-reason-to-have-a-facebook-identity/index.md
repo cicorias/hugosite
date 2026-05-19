@@ -5,6 +5,7 @@ lastmod: 2010-12-05T01:05:00+0000
 slug: "one-reason-to-have-a-facebook-identity"
 aliases:
   - /one-reason-to-have-a-facebook-identity/
+feature_image: "/images/2010/12/one-reason-to-have-a-facebook-identity-hero.jpg"
 ---
 
 Reading this article [http://www.nytimes.com/2010/12/05/us/05bully.html?\_r=1&hp](http://www.nytimes.com/2010/12/05/us/05bully.html?_r=1&hp "http://www.nytimes.com/2010/12/05/us/05bully.html?_r=1&hp")

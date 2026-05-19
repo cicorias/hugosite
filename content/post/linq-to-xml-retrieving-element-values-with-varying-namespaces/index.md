@@ -5,6 +5,7 @@ lastmod: 2008-11-24T14:07:37+0000
 slug: "linq-to-xml-retrieving-element-values-with-varying-namespaces"
 aliases:
   - /linq-to-xml-retrieving-element-values-with-varying-namespaces/
+feature_image: "/images/2008/11/linq-to-xml-retrieving-element-values-with-varying-namespace-hero.jpg"
 ---
 
 Recently I had to deal with some XML supplied to a development group that wasn't the greatest in structure.  For one, there was inconsistent use of namespaces and each repeating element had the namespace duplicated.

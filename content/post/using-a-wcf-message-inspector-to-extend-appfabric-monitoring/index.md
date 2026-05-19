@@ -5,6 +5,7 @@ lastmod: 2010-06-10T10:42:06+0000
 slug: "using-a-wcf-message-inspector-to-extend-appfabric-monitoring"
 aliases:
   - /using-a-wcf-message-inspector-to-extend-appfabric-monitoring/
+feature_image: "/images/2010/06/using-a-wcf-message-inspector-to-extend-appfabric-monitoring-hero.jpg"
 ---
 
 I read through Ron Jacobs post on Monitoring WCF Data Services with AppFabric

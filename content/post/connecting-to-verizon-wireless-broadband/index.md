@@ -5,6 +5,7 @@ lastmod: 2009-08-13T15:11:07+0000
 slug: "connecting-to-verizon-wireless-broadband"
 aliases:
   - /connecting-to-verizon-wireless-broadband/
+feature_image: "/images/2009/08/connecting-to-verizon-wireless-broadband-hero.jpg"
 ---
 
 For some reason all of a sudden I started getting PPP errors during connection on VZW broadband on my Mobile phone.

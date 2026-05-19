@@ -5,6 +5,7 @@ lastmod: 2014-04-17T22:54:24+0000
 slug: "comparing-hash-of-downloaded-files-with-powershell"
 aliases:
   - /comparing-hash-of-downloaded-files-with-powershell/
+feature_image: "/images/2014/04/comparing-hash-of-downloaded-files-with-powershell-hero.jpg"
 ---
 
 I can’t claim 99% of this – main credit to : [http://www.tinyint.com/index.php/2011/09/14/get-an-md5-or-sha1-checksum-with-powershell/](http://www.tinyint.com/index.php/2011/09/14/get-an-md5-or-sha1-checksum-with-powershell/ "http://www.tinyint.com/index.php/2011/09/14/get-an-md5-or-sha1-checksum-with-powershell/")

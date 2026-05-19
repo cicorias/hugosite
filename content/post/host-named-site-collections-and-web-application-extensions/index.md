@@ -5,6 +5,7 @@ lastmod: 2013-08-14T05:55:40+0000
 slug: "host-named-site-collections-and-web-application-extensions"
 aliases:
   - /host-named-site-collections-and-web-application-extensions/
+feature_image: "/images/2013/08/host-named-site-collections-and-web-application-extensions-hero.jpg"
 ---
 
 The question came up about whether the mix of an SharePoint 2013 extended web application that may have different authentication providers, could also support Host Named Site Collections (HNSC).

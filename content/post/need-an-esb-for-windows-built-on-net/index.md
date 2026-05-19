@@ -5,6 +5,7 @@ lastmod: 2010-04-27T01:02:14+0000
 slug: "need-an-esb-for-windows-built-on-net"
 aliases:
   - /need-an-esb-for-windows-built-on-net/
+feature_image: "/images/2010/04/need-an-esb-for-windows-built-on-net-hero.jpg"
 ---
 
 Neudesic is offering up registered access to their ESB platform – Neuron.

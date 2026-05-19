@@ -5,6 +5,7 @@ lastmod: 2011-03-07T11:41:30+0000
 slug: "asus-slatei-gotta-get-one"
 aliases:
   - /asus-slatei-gotta-get-one/
+feature_image: "/images/2011/03/asus-slatei-gotta-get-one-hero.jpg"
 ---
 
 This thing rocks…

@@ -5,6 +5,7 @@ lastmod: 2009-01-16T12:36:57+0000
 slug: "whats-my-wssmoss-patch-level"
 aliases:
   - /whats-my-wssmoss-patch-level/
+feature_image: "/images/2009/01/whats-my-wssmoss-patch-level-hero.jpg"
 ---
 
 For a good list on what your current farm patch level is at check out the following post:

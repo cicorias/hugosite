@@ -5,6 +5,7 @@ lastmod: 2008-11-24T11:39:31+0000
 slug: "powercommands-1-1-and-disappearing-visual-studio-2008"
 aliases:
   - /powercommands-1-1-and-disappearing-visual-studio-2008/
+feature_image: "/images/2008/11/powercommands-1-1-and-disappearing-visual-studio-2008-hero.jpg"
 ---
 
 If youre running Visual Studio 2008 SP1 and you're also a [PowerCommands](http://code.msdn.microsoft.com/PowerCommands) fan you might run into the issue that VS just crashes with no exception box and only the following error in the Application event log:

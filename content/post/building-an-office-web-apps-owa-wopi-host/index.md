@@ -5,6 +5,7 @@ lastmod: 2013-07-22T12:21:37+0000
 slug: "building-an-office-web-apps-owa-wopi-host"
 aliases:
   - /building-an-office-web-apps-owa-wopi-host/
+feature_image: "/images/2013/07/building-an-office-web-apps-owa-wopi-host-hero.jpg"
 ---
 
 **UPDATE: January 31, 2014**

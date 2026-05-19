@@ -5,6 +5,7 @@ lastmod: 2008-03-13T06:03:36+0000
 slug: "learning-linq-no-excuses"
 aliases:
   - /learning-linq-no-excuses/
+feature_image: "/images/2008/03/learning-linq-no-excuses-hero.jpg"
 ---
 
 There are really a whole bunch of great resources out there that help the community get up & running with LINQ.

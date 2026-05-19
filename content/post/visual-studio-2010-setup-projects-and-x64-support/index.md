@@ -5,6 +5,7 @@ lastmod: 2010-12-21T14:24:59+0000
 slug: "visual-studio-2010-setup-projects-and-x64-support"
 aliases:
   - /visual-studio-2010-setup-projects-and-x64-support/
+feature_image: "/images/2010/12/visual-studio-2010-setup-projects-and-x64-support-hero.jpg"
 ---
 
 I was taking the Windows Azure CmdLets project and getting it into an MSI just to make it easier to deploy in a nice package.  I ran into problems with the Setup project not being able to properly establish the right registry settings for an x64 environment.

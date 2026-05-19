@@ -5,6 +5,7 @@ lastmod: 2010-06-10T10:28:37+0000
 slug: "appfabric-where-are-all-the-monitoring-events"
 aliases:
   - /appfabric-where-are-all-the-monitoring-events/
+feature_image: "/images/2010/06/appfabric-where-are-all-the-monitoring-events-hero.jpg"
 ---
 
 When you’ve just gone through a setup of AppFabric and you’ve got some WF/WCF things happening, if you start looking at the Dashboard and you see nothing, it might be as simple as restarting SQL Agent.

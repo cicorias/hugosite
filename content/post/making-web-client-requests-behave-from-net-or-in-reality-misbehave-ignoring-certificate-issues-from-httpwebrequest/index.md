@@ -5,6 +5,7 @@ lastmod: 2010-09-05T04:39:14+0000
 slug: "making-web-client-requests-behave-from-net-or-in-reality-misbehave-ignoring-certificate-issues-from-httpwebrequest"
 aliases:
   - /making-web-client-requests-behave-from-net-or-in-reality-misbehave-ignoring-certificate-issues-from-httpwebrequest/
+feature_image: "/images/2010/09/making-web-client-requests-behave-from-net-or-in-reality-mis-hero.jpg"
 ---
 
 Many times, especially during development, you could have certificates that are out of date, aren’t singed by any real authority (makecert, etc.), or even don’t match the host name that the request is issued against, but you want to test, etc.

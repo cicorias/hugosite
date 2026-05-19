@@ -5,6 +5,7 @@ lastmod: 2011-05-26T04:24:10+0000
 slug: "how-does-the-windows-azure-fabric-controller-do-that"
 aliases:
   - /how-does-the-windows-azure-fabric-controller-do-that/
+feature_image: "/images/2011/05/how-does-the-windows-azure-fabric-controller-do-that-hero.jpg"
 ---
 
 Kevin Williamson has a great post on the overall flow of things from the point of publishing of your package up on the Windows Azure Developer Portal to Run().

@@ -5,6 +5,7 @@ lastmod: 2011-03-11T07:59:34+0000
 slug: "taking-advantage-of-windows-azure-cdn-and-dynamic-pages-in-asp-net-caching-content-from-hosted-services"
 aliases:
   - /taking-advantage-of-windows-azure-cdn-and-dynamic-pages-in-asp-net-caching-content-from-hosted-services/
+feature_image: "/images/2011/03/taking-advantage-of-windows-azure-cdn-and-dynamic-pages-in-a-hero.jpg"
 ---
 
 With the updates to Windows Azure CDN announced this week [[1](http://blogs.msdn.com/b/windowsazure/archive/2011/03/09/now-available-updated-windows-azure-sdk-and-windows-azure-management-portal.aspx)] I wanted to help illustrate the capability with a working sample that will serve up dynamic content from an ASP.NET site hosted in a WebRole.

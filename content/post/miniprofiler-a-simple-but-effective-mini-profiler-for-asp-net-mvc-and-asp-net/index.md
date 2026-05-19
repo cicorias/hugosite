@@ -5,6 +5,7 @@ lastmod: 2011-09-18T02:34:33+0000
 slug: "miniprofiler-a-simple-but-effective-mini-profiler-for-asp-net-mvc-and-asp-net"
 aliases:
   - /miniprofiler-a-simple-but-effective-mini-profiler-for-asp-net-mvc-and-asp-net/
+feature_image: "/images/2011/09/miniprofiler-a-simple-but-effective-mini-profiler-for-asp-ne-hero.jpg"
 ---
 
 Once in a while a good tool that I find out about that helps me developing solutions comes in real handy.  MiniProfiler is one of those tools.

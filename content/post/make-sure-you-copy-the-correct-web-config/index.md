@@ -5,6 +5,7 @@ lastmod: 2009-12-16T03:58:45+0000
 slug: "make-sure-you-copy-the-correct-web-config"
 aliases:
   - /make-sure-you-copy-the-correct-web-config/
+feature_image: "/images/2009/12/make-sure-you-copy-the-correct-web-config-hero.jpg"
 ---
 
 During an installation issue, a client followed the TechNet article ([http://technet.microsoft.com/en-us/library/cc298447.aspx](http://technet.microsoft.com/en-us/library/cc298447.aspx "http://technet.microsoft.com/en-us/library/cc298447.aspx")) and those instructions are misleading.

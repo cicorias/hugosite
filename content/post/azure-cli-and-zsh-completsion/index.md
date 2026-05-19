@@ -6,6 +6,7 @@ slug: "azure-cli-and-zsh-completsion"
 draft: true
 aliases:
   - /azure-cli-and-zsh-completsion/
+feature_image: "/images/2022/11/azure-cli-and-zsh-completsion-hero.jpg"
 ---
 
 ```

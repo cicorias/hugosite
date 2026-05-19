@@ -5,6 +5,7 @@ lastmod: 2011-09-21T08:14:58+0000
 slug: "use-an-action-delegate-to-time-a-method"
 aliases:
   - /use-an-action-delegate-to-time-a-method/
+feature_image: "/images/2011/09/use-an-action-delegate-to-time-a-method-hero.jpg"
 ---
 
 I wanted an ability to be able to simply time methods and write to a log/trace sink and a very simple approach that I ended up using was to provide a method that takes an Action delegate which would be the method that is to be timed.

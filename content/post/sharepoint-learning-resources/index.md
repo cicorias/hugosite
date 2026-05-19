@@ -5,6 +5,7 @@ lastmod: 2009-02-18T16:44:04+0000
 slug: "sharepoint-learning-resources"
 aliases:
   - /sharepoint-learning-resources/
+feature_image: "/images/2009/02/sharepoint-learning-resources-hero.jpg"
 ---
 
 Here are several links to some good resources:

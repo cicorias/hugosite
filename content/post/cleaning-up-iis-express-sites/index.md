@@ -5,6 +5,7 @@ lastmod: 2013-03-08T04:00:51+0000
 slug: "cleaning-up-iis-express-sites"
 aliases:
   - /cleaning-up-iis-express-sites/
+feature_image: "/images/2013/03/cleaning-up-iis-express-sites-hero.jpg"
 ---
 
 Over time, you may end up with lots of sites running in IIS Express.  I like things neat and tidy, and periodically, I’ll run a little cleanup command as follows:

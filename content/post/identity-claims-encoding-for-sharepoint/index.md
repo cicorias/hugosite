@@ -5,6 +5,7 @@ lastmod: 2011-06-30T03:50:59+0000
 slug: "identity-claims-encoding-for-sharepoint"
 aliases:
   - /identity-claims-encoding-for-sharepoint/
+feature_image: "/images/2011/06/identity-claims-encoding-for-sharepoint-hero.jpg"
 ---
 
 Just to remind myself, the list of claim types and their encodings are listed here at the bottom.

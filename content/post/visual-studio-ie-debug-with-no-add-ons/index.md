@@ -5,6 +5,7 @@ lastmod: 2013-03-26T07:35:36+0000
 slug: "visual-studio-ie-debug-with-no-add-ons"
 aliases:
   - /visual-studio-ie-debug-with-no-add-ons/
+feature_image: "/images/2013/03/visual-studio-ie-debug-with-no-add-ons-hero.jpg"
 ---
 
 Sometimes you need IE with no-adds.  For example, colleague of mine was crashing – won’t say which add-on caused it, but easily enough, add a choice to run IE with No-Addons in VS2012.

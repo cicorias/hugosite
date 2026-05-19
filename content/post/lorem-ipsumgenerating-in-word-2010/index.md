@@ -5,6 +5,7 @@ lastmod: 2011-06-27T08:25:33+0000
 slug: "lorem-ipsumgenerating-in-word-2010"
 aliases:
   - /lorem-ipsumgenerating-in-word-2010/
+feature_image: "/images/2011/06/lorem-ipsumgenerating-in-word-2010-hero.jpg"
 ---
 
 Well, apparently I missed this hidden feature having used the Lorem Ipsum website for some time, but if you enter the following in blank Word document – you’ll get 10 paragraphs of generated text:

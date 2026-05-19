@@ -5,6 +5,7 @@ lastmod: 2009-11-17T05:21:38+0000
 slug: "loopback-check-on-windows-2008-etc"
 aliases:
   - /loopback-check-on-windows-2008-etc/
+feature_image: "/images/2009/11/loopback-check-on-windows-2008-etc-hero.jpg"
 ---
 
 This KB article ([KB926642](http://support.microsoft.com/kb/926642)) explains 2 methods for handling the scenarios that we as developers require for using a local machine for development.  My option has been, going forward, of being explicitly in the host names that my development machine will use.  From that article:

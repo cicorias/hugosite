@@ -5,6 +5,7 @@ lastmod: 2011-09-21T10:54:44+0000
 slug: "faking-spcontextfor-testing-only"
 aliases:
   - /faking-spcontextfor-testing-only/
+feature_image: "/images/2011/09/faking-spcontextfor-testing-only-hero.jpg"
 ---
 
 Keith Dahlby has a good post on creating a fake SPContext.  Here’s the link and the code

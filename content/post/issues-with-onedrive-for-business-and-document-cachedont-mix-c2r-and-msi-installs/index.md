@@ -5,6 +5,7 @@ lastmod: 2014-09-24T06:36:00+0000
 slug: "issues-with-onedrive-for-business-and-document-cachedont-mix-c2r-and-msi-installs"
 aliases:
   - /issues-with-onedrive-for-business-and-document-cachedont-mix-c2r-and-msi-installs/
+feature_image: "/images/2014/09/issues-with-onedrive-for-business-and-document-cachedont-mix-hero.jpg"
 ---
 
 With the latest updates to Office, an issue that rears it’s ugly head if you’ve mixed both C2R and MSI installs of any Office product (2013).  That means Office, Visio, Project, SharePoint designer, and OneDrive for Business Sync Client.

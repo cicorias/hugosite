@@ -5,6 +5,7 @@ lastmod: 2014-11-06T08:07:16+0000
 slug: "sharepoint-2013-fixing-wcag-f38-failureimages-without-alt-tagsusing-a-control-adapterdisplay-templates"
 aliases:
   - /sharepoint-2013-fixing-wcag-f38-failureimages-without-alt-tagsusing-a-control-adapterdisplay-templates/
+feature_image: "/images/2014/11/sharepoint-2013-fixing-wcag-f38-failureimages-without-alt-ta-hero.jpg"
 ---
 
 The [WCAG (Web Content Accessibility Guidelines)](http://www.w3.org/WAI/intro/wcag) provide a baseline for accessibility standards so various tools, such as screen readers, can provide a reasonable experience for those with accessibility challenges.

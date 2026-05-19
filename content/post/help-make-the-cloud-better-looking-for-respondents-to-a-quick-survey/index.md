@@ -5,6 +5,7 @@ lastmod: 2016-07-25T17:02:38+0000
 slug: "help-make-the-cloud-better-looking-for-respondents-to-a-quick-survey"
 aliases:
   - /help-make-the-cloud-better-looking-for-respondents-to-a-quick-survey/
+feature_image: "/images/2016/07/help-make-the-cloud-better-looking-for-respondents-to-a-quic-hero.jpg"
 ---
 
 Here's a direct link - if the popup doesn't show.

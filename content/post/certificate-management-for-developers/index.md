@@ -5,6 +5,7 @@ lastmod: 2011-01-08T01:52:56+0000
 slug: "certificate-management-for-developers"
 aliases:
   - /certificate-management-for-developers/
+feature_image: "/images/2011/01/certificate-management-for-developers-hero.jpg"
 ---
 
 There’s no doubt that certificate management, when you haven’t futzed with it for some time, is a fun time…

@@ -5,6 +5,7 @@ lastmod: 2009-01-24T10:01:29+0000
 slug: "setting-navigation-properties-on-a-sharepoint-wss-site"
 aliases:
   - /setting-navigation-properties-on-a-sharepoint-wss-site/
+feature_image: "/images/2009/01/setting-navigation-properties-on-a-sharepoint-wss-site-hero.jpg"
 ---
 
 Recently, I was going through setting up some sample navigation approaches for SharePoint.  The first step was in creating a bunch of Child Sites and some basic hierarchical structure. For that I used a great tool from [IDevFactory called SWAT](http://www.idevfactory.com/products/swat/default.aspx) just to create some empty Team Sites.

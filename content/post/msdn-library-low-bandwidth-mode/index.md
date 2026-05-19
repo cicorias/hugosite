@@ -5,6 +5,7 @@ lastmod: 2009-05-28T13:17:47+0000
 slug: "msdn-library-low-bandwidth-mode"
 aliases:
   - /msdn-library-low-bandwidth-mode/
+feature_image: "/images/2009/05/msdn-library-low-bandwidth-mode-hero.jpg"
 ---
 
 If you’re needing access to MSDN library from a 3g tethered, or low bandwidth at a location, MSDN Library is now published in a mode that lowers the payload…

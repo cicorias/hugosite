@@ -5,6 +5,7 @@ lastmod: 2015-02-15T11:26:59+0000
 slug: "troubleshooting-toolazure-webjob-tcp-ping"
 aliases:
   - /troubleshooting-toolazure-webjob-tcp-ping/
+feature_image: "/images/2015/02/troubleshooting-toolazure-webjob-tcp-ping-hero.jpg"
 ---
 
 I’ve dropped a quick Visual Studio solution that has a simple Azure WebJob intended to run Continuously that does a Socket open (TCPPing) for a specific IP address and Port – intended to aid in identifying any network transient errors over time.

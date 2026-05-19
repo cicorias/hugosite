@@ -5,6 +5,7 @@ lastmod: 2009-05-05T04:22:00+0000
 slug: "building-a-mini-url-service-part-2-the-algorithm"
 aliases:
   - /building-a-mini-url-service-part-2-the-algorithm/
+feature_image: "/images/2009/05/building-a-mini-url-service-part-2-the-algorithm-hero.jpg"
 ---
 
 [Part 1](http://cicoria.com/CS1/blogs/cedarlogic/archive/2009/05/04/building-a-mini-url-service-part-1.aspx) – Part 2

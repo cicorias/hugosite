@@ -5,6 +5,7 @@ lastmod: 2011-07-10T06:26:34+0000
 slug: "hosted-service-as-a-windows-azure-cdn-origin-tips"
 aliases:
   - /hosted-service-as-a-windows-azure-cdn-origin-tips/
+feature_image: "/images/2011/07/hosted-service-as-a-windows-azure-cdn-origin-tips-hero.jpg"
 ---
 
 The Windows Azure Content Delivery Network (CDN) helps improve the solution experience by putting content closer to the end-user, enhances availability, geo-distribution, scalability, lower latency delivery, and performance. If that’s the goal we want to be sure that when we instantiate the source of this content at the origin it’s as CDN friendly as we need.

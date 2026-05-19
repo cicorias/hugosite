@@ -5,6 +5,7 @@ lastmod: 2009-05-04T10:23:00+0000
 slug: "building-a-mini-url-service-part-1"
 aliases:
   - /building-a-mini-url-service-part-1/
+feature_image: "/images/2009/05/building-a-mini-url-service-part-1-hero.jpg"
 ---
 
 This set of posts is about a "Mini URL" service that I created initially to help provide a means to automate shortening of URL's for sending in emails to users in SharePoint. If you've used SharePoint and at times you need to send a link to a List or Document item one way is to "right-click" the item (whether it's a folder, list item, or document) then if it's IE choose "Copy Shortcut". You can then just past that into an email and send over to your recipient.

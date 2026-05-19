@@ -5,6 +5,7 @@ lastmod: 2009-12-23T08:29:30+0000
 slug: "wildcard-certificates-and-iis7"
 aliases:
   - /wildcard-certificates-and-iis7/
+feature_image: "/images/2009/12/wildcard-certificates-and-iis7-hero.jpg"
 ---
 
 Let’s face it, during development, managing all the certificates if you’re doing anything with validating SSL/TLS traffic is a pain.

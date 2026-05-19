@@ -5,6 +5,7 @@ lastmod: 2010-02-26T09:02:14+0000
 slug: "need-a-simple-ldap-server-for-windows-7"
 aliases:
   - /need-a-simple-ldap-server-for-windows-7/
+feature_image: "/images/2010/02/need-a-simple-ldap-server-for-windows-7-hero.jpg"
 ---
 
 Well, in the past we had ADAM – which has migrated to AD LDS for Windows – under Vista, we really only had a hack to get it (ADAM) running on Vista.

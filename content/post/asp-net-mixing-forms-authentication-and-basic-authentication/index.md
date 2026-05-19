@@ -5,6 +5,7 @@ lastmod: 2021-07-01T18:02:29+0000
 slug: "asp-net-mixing-forms-authentication-and-basic-authentication"
 aliases:
   - /asp-net-mixing-forms-authentication-and-basic-authentication/
+feature_image: "/images/1969/12/asp-net-mixing-forms-authentication-and-basic-authentication-hero.jpg"
 ---
 
 Recently, I was on a project that required access to both internal and external users.  The internal users identities are present in Active Directory.  The external users would not be.

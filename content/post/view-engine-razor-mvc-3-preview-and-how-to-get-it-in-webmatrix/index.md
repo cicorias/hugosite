@@ -5,6 +5,7 @@ lastmod: 2010-07-28T01:45:43+0000
 slug: "view-engine-razor-mvc-3-preview-and-how-to-get-it-in-webmatrix"
 aliases:
   - /view-engine-razor-mvc-3-preview-and-how-to-get-it-in-webmatrix/
+feature_image: "/images/2010/07/view-engine-razor-mvc-3-preview-and-how-to-get-it-in-webmatr-hero.jpg"
 ---
 
 WebMatrix is back – sort of.  There used to be Web Matrix in the early days of ASP.NET.  Now, it’s back again, and it’s ready with some of the upcoming preview capabilities coming out – such as a view engine called Razor.

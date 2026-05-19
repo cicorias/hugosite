@@ -5,6 +5,7 @@ lastmod: 2008-07-24T11:13:25+0000
 slug: "creating-a-wss-moss-command-prompt-on-the-desktop"
 aliases:
   - /creating-a-wss-moss-command-prompt-on-the-desktop/
+feature_image: "/images/2008/07/creating-a-wss-moss-command-prompt-on-the-desktop-hero.jpg"
 ---
 
 **UPDATED: 8/6/2008 - Minor issue on Path**

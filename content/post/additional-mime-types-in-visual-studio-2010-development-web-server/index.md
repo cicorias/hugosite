@@ -5,6 +5,7 @@ lastmod: 2011-10-06T11:40:13+0000
 slug: "additional-mime-types-in-visual-studio-2010-development-web-server"
 aliases:
   - /additional-mime-types-in-visual-studio-2010-development-web-server/
+feature_image: "/images/2011/10/additional-mime-types-in-visual-studio-2010-development-web--hero.jpg"
 ---
 
 While the development server in Visual Studio 2010 is great for most work, it does have 1 shortcoming in that if you start adding content types that are not part of the base set of known Mime types built in, you won’t affect the proper header response that is emitted to the client/browser.

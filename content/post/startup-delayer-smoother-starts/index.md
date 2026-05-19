@@ -5,6 +5,7 @@ lastmod: 2009-02-06T04:44:34+0000
 slug: "startup-delayer-smoother-starts"
 aliases:
   - /startup-delayer-smoother-starts/
+feature_image: "/images/2009/02/startup-delayer-smoother-starts-hero.jpg"
 ---
 
 I have to give a nod to [Startup Delayer from r2 Studios](http://www.r2.com.au/software.php?page=2&show=startdelay)…

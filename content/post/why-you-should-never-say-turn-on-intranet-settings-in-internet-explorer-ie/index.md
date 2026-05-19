@@ -5,6 +5,7 @@ lastmod: 2014-10-26T11:45:12+0000
 slug: "why-you-should-never-say-turn-on-intranet-settings-in-internet-explorer-ie"
 aliases:
   - /why-you-should-never-say-turn-on-intranet-settings-in-internet-explorer-ie/
+feature_image: "/images/2014/10/why-you-should-never-say-turn-on-intranet-settings-in-intern-hero.jpg"
 ---
 
 I recently checked into a hotel – connected to their guest wireless – and I start noticing odd things with some websites.

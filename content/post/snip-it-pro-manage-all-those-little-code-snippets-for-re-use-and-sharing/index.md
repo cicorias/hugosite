@@ -5,6 +5,7 @@ lastmod: 2009-11-30T09:42:11+0000
 slug: "snip-it-pro-manage-all-those-little-code-snippets-for-re-use-and-sharing"
 aliases:
   - /snip-it-pro-manage-all-those-little-code-snippets-for-re-use-and-sharing/
+feature_image: "/images/2009/11/snip-it-pro-manage-all-those-little-code-snippets-for-re-use-hero.jpg"
 ---
 
 An old colleague of mine from Avanade has apparently put out a very cool tool for managing re-usable “snippets” of code from a repository.  This is a tool that could be used every day, or even for demos…

@@ -5,6 +5,7 @@ lastmod: 2009-04-30T11:49:29+0000
 slug: "thanks-jukka-moss-2007-sp2-upgrade-failure-solution"
 aliases:
   - /thanks-jukka-moss-2007-sp2-upgrade-failure-solution/
+feature_image: "/images/2009/04/thanks-jukka-moss-2007-sp2-upgrade-failure-solution-hero.jpg"
 ---
 
 During an upgrade, the psconfig command fails with

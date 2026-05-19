@@ -5,6 +5,7 @@ lastmod: 2010-06-21T10:46:22+0000
 slug: "the-jersey-doesnt-stink-website-does-it-really-need-a-site"
 aliases:
   - /the-jersey-doesnt-stink-website-does-it-really-need-a-site/
+feature_image: "/images/2010/06/the-jersey-doesnt-stink-website-does-it-really-need-a-site-hero.jpg"
 ---
 
 I have to admit, been in Jersey all my life – and yes, it does stink – but probably no more than any other state.  Grass isn’t always greener – and yes, we do have grass in NJ.

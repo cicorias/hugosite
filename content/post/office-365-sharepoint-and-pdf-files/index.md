@@ -5,6 +5,7 @@ lastmod: 2013-06-08T06:38:53+0000
 slug: "office-365-sharepoint-and-pdf-files"
 aliases:
   - /office-365-sharepoint-and-pdf-files/
+feature_image: "/images/2013/06/office-365-sharepoint-and-pdf-files-hero.jpg"
 ---
 
 Recently, O365 added some server side rendering of PDF files.  Problem is if you have PDF files and an anonymous site, if a user clicks the PDF link, it will then try to authenticate that users.  Which defeats the purpose of anonymous.

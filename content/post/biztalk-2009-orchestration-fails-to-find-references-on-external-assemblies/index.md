@@ -5,6 +5,7 @@ lastmod: 2010-06-06T12:10:12+0000
 slug: "biztalk-2009-orchestration-fails-to-find-references-on-external-assemblies"
 aliases:
   - /biztalk-2009-orchestration-fails-to-find-references-on-external-assemblies/
+feature_image: "/images/2010/06/biztalk-2009-orchestration-fails-to-find-references-on-exter-hero.jpg"
 ---
 
 If you’re developing BizTalk 2009 solutions (Orchestrations) and you’ve split your schemas out into alternative assemblies (projects) – sometimes you’ll get odd not found issues with some (if not all) of the types in those referenced assemblies.  You can try everything – recompile, de-gac, re-gac, – doesn’t matter.

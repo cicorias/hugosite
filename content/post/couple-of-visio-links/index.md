@@ -5,6 +5,7 @@ lastmod: 2009-04-04T05:28:02+0000
 slug: "couple-of-visio-links"
 aliases:
   - /couple-of-visio-links/
+feature_image: "/images/2009/04/couple-of-visio-links-hero.jpg"
 ---
 
 Visio is my primary diagramming tool.  I wanted to point out a couple of recent links I came accross that help in diagramming various things.

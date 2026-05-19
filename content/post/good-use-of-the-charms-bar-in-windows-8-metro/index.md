@@ -5,6 +5,7 @@ lastmod: 2012-07-05T07:24:25+0000
 slug: "good-use-of-the-charms-bar-in-windows-8-metro"
 aliases:
   - /good-use-of-the-charms-bar-in-windows-8-metro/
+feature_image: "/images/2012/07/good-use-of-the-charms-bar-in-windows-8-metro-hero.jpg"
 ---
 
 If you’re using Win8 yet, no doubt you’ve run into the charms bar.  There’s a feature to extend via Share, links to your application.

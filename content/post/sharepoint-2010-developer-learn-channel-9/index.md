@@ -5,6 +5,7 @@ lastmod: 2009-11-11T03:38:25+0000
 slug: "sharepoint-2010-developer-learn-channel-9"
 aliases:
   - /sharepoint-2010-developer-learn-channel-9/
+feature_image: "/images/2009/11/sharepoint-2010-developer-learn-channel-9-hero.jpg"
 ---
 
 Ted Pattison and Andrew Connell have a bunch of Learning SharePoint 2010 content up on Channel 9.

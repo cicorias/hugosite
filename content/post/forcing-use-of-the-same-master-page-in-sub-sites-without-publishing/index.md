@@ -5,6 +5,7 @@ lastmod: 2011-06-02T05:19:59+0000
 slug: "forcing-use-of-the-same-master-page-in-sub-sites-without-publishing"
 aliases:
   - /forcing-use-of-the-same-master-page-in-sub-sites-without-publishing/
+feature_image: "/images/2011/06/forcing-use-of-the-same-master-page-in-sub-sites-without-pub-hero.jpg"
 ---
 
 This seems to come up a few times.  The following sample script in PS applies a common master page across all SPWebs in a site collection.

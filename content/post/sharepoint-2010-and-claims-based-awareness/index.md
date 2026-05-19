@@ -5,6 +5,7 @@ lastmod: 2009-11-23T03:51:37+0000
 slug: "sharepoint-2010-and-claims-based-awareness"
 aliases:
   - /sharepoint-2010-and-claims-based-awareness/
+feature_image: "/images/2009/11/sharepoint-2010-and-claims-based-awareness-hero.jpg"
 ---
 
 The industry it moving towards identity standards, and with the recent release of Windows Identity Foundation (fka Geneva), and the beta of SharePoint 2010, it’s important to take a look at the direction of how identity is being normalized into a “service” within the SharePoint object model.

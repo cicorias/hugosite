@@ -5,6 +5,7 @@ lastmod: 2011-03-03T11:10:16+0000
 slug: "running-jetty-under-windows-azure-using-roleentrypoint-in-a-worker-role"
 aliases:
   - /running-jetty-under-windows-azure-using-roleentrypoint-in-a-worker-role/
+feature_image: "/images/2011/03/running-jetty-under-windows-azure-using-roleentrypoint-in-a--hero.jpg"
 ---
 
 This post is built upon the work of [Mario Kosmiskas](http://blogs.msdn.com/b/mariok) and [David C. Chou’s](http://blogs.msdn.com/b/dachou) prior postings – from here:

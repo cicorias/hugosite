@@ -5,6 +5,7 @@ lastmod: 2009-11-09T03:34:56+0000
 slug: "teamprise-acquired-by-microsoft"
 aliases:
   - /teamprise-acquired-by-microsoft/
+feature_image: "/images/2009/11/teamprise-acquired-by-microsoft-hero.jpg"
 ---
 
 TeamPrise – the cross platform “client” for TFS, with Eclipse support (plug-in), command line – has been acquired by Microsoft.

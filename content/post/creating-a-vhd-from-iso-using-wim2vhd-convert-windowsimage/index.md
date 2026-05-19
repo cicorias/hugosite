@@ -5,6 +5,7 @@ lastmod: 2015-12-07T05:05:04+0000
 slug: "creating-a-vhd-from-iso-using-wim2vhd-convert-windowsimage"
 aliases:
   - /creating-a-vhd-from-iso-using-wim2vhd-convert-windowsimage/
+feature_image: "/images/2015/12/creating-a-vhd-from-iso-using-wim2vhd-convert-windowsimage-hero.jpg"
 ---
 
 This script here helps in creating VHD’s on the fly. Recently I needed to quickly create some VHDX from an ISO that are “arm-able” for some labs.

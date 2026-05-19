@@ -5,6 +5,7 @@ lastmod: 2010-09-17T00:52:43+0000
 slug: "capturing-feedback-in-ie9"
 aliases:
   - /capturing-feedback-in-ie9/
+feature_image: "/images/2010/09/capturing-feedback-in-ie9-hero.jpg"
 ---
 
 IE9 adds a nice feature - “Send Feedback” – which, helps you gather a report, even launches the “Problem Step Recorder” (PSR) tool that comes with Windows 7/2008R2 \*\*\*.   The PSR tool is also usable outside of this feedback and is an optional capture that can be added to the feedback report.

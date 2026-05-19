@@ -5,6 +5,7 @@ lastmod: 2011-06-06T02:54:36+0000
 slug: "know-what-process-is-calling-your-spclaimprovider"
 aliases:
   - /know-what-process-is-calling-your-spclaimprovider/
+feature_image: "/images/2011/06/know-what-process-is-calling-your-spclaimprovider-hero.jpg"
 ---
 
 If you’re writing a custom SharePoint Claims Provider ([SPClaimProvider](http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.claims.spclaimprovider.aspx)) in order to augment claims, it’s important to also understand what process is executing your specific code path.  In the situation where you are making calls to a DB or service endpoint you will need to understand which process actually makes that call.

@@ -5,6 +5,7 @@ lastmod: 2015-07-01T13:18:11+0000
 slug: "cleaning-up-iis-express-sites-v2"
 aliases:
   - /cleaning-up-iis-express-sites-v2/
+feature_image: "/images/2015/07/cleaning-up-iis-express-sites-v2-hero.jpg"
 ---
 
 This one deals with a single site…

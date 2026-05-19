@@ -5,6 +5,7 @@ lastmod: 2014-10-09T13:23:20+0000
 slug: "getting-docker-running-on-hyper-v-8-1-2012-r2"
 aliases:
   - /getting-docker-running-on-hyper-v-8-1-2012-r2/
+feature_image: "/images/2014/10/getting-docker-running-on-hyper-v-8-1-2012-r2-hero.jpg"
 ---
 
 Running [Docker](https://docker.com/) locally on a Windows machine is generally not an issue; unless you've committed to using Hyper-V. Since the [Docker](https://docker.com/) install for Windows relies on Sun's Oracle's Virtual Box, you can't have both running (Hyper-V and Virtual Box).

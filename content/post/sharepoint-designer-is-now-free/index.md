@@ -5,6 +5,7 @@ lastmod: 2009-04-02T04:37:42+0000
 slug: "sharepoint-designer-is-now-free"
 aliases:
   - /sharepoint-designer-is-now-free/
+feature_image: "/images/2009/04/sharepoint-designer-is-now-free-hero.jpg"
 ---
 
 Get your copy now …

@@ -5,6 +5,7 @@ lastmod: 2010-01-07T01:27:22+0000
 slug: "dont-get-caught-with-long-account-names"
 aliases:
   - /dont-get-caught-with-long-account-names/
+feature_image: "/images/2010/01/dont-get-caught-with-long-account-names-hero.jpg"
 ---
 
 This has bitten me a couple of times.

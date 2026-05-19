@@ -5,6 +5,7 @@ lastmod: 2013-03-11T03:23:27+0000
 slug: "ebook-better-unit-testing-with-microsoft-fakesavailable-now"
 aliases:
   - /ebook-better-unit-testing-with-microsoft-fakesavailable-now/
+feature_image: "/images/2013/03/ebook-better-unit-testing-with-microsoft-fakesavailable-now-hero.jpg"
 ---
 
 I was fortunate enough to work on a team for the past year on producing an eBook that covers the Microsoft Fakes Framework that shipped as part of Visual Studio 2012.  Note that Fakes is or will be available in the Premium edition of VS2012 with Update 2.

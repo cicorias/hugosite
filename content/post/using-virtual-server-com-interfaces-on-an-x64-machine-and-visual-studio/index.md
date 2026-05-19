@@ -5,6 +5,7 @@ lastmod: 2008-07-15T09:13:30+0000
 slug: "using-virtual-server-com-interfaces-on-an-x64-machine-and-visual-studio"
 aliases:
   - /using-virtual-server-com-interfaces-on-an-x64-machine-and-visual-studio/
+feature_image: "/images/2008/07/using-virtual-server-com-interfaces-on-an-x64-machine-and-vi-hero.jpg"
 ---
 
 Recently, I messed up a set of VHD files that were based upon differencing disks.  Basically, I killed the parent drive - so, any child drives are useless.

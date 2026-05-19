@@ -5,6 +5,7 @@ lastmod: 2011-06-10T09:41:28+0000
 slug: "sharepoint-2010-fba-and-sliding-sessions"
 aliases:
   - /sharepoint-2010-fba-and-sliding-sessions/
+feature_image: "/images/2011/06/sharepoint-2010-fba-and-sliding-sessions-hero.jpg"
 ---
 
 This is to provide a little bit of explanation on the implementation of FBA authentication with SP 2010. There have been blog posts that indicate there are no sliding sessions, but with a little manipulation and understanding of some of the settings, there is somewhat of support for sliding sessions and re-issuance of tokens. The current model provides for a little trade-off on performance as re-requests to the FBA providers and also any SP Custom Claim providers can have impact on overall performance.

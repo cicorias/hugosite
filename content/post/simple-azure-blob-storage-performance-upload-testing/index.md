@@ -5,6 +5,7 @@ lastmod: 2015-09-17T09:48:49+0000
 slug: "simple-azure-blob-storage-performance-upload-testing"
 aliases:
   - /simple-azure-blob-storage-performance-upload-testing/
+feature_image: "/images/2015/09/simple-azure-blob-storage-performance-upload-testing-hero.jpg"
 ---
 
 # Azure Blob Storage Perf Testing Tool
