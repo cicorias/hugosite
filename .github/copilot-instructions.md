@@ -55,7 +55,7 @@ hugo --gc --cleanDestinationDir
 | Post              | `content/post/<slug>/index.md` (leaf bundle)             |
 | Page              | `content/<slug>/index.md`                                |
 | Tags              | Front matter `tags: [...]` → taxonomy at `/tags/`        |
-| Featured image    | `image` param in front matter, referencing `/images/<file>` in `static/images/` |
+| Featured image    | `feature_image` param in front matter, referencing `/images/<file>` in `static/images/`. Never duplicate it as a Markdown image at the top of the post body — XMin renders `feature_image` automatically. |
 | Author            | Single author; set in `hugo.toml` `[params]`             |
 | Post excerpt      | `summary` in front matter or `<!--more-->` marker        |
 | Internal images   | Stored in `static/images/` and referenced as `/images/<file>` in Markdown |

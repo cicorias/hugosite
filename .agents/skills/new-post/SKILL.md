@@ -23,3 +23,5 @@ aliases:
 ```
 
 Leave the body below the closing `---` empty (just a blank line). Print the full path of the file created.
+
+**Do not paste the `feature_image` (or any other front-matter image) into the body as a Markdown image.** The XMin theme renders `feature_image` for the post automatically; duplicating it as `![alt](/images/...)` immediately after the front matter creates a visible duplicate hero.

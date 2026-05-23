@@ -70,6 +70,8 @@ aliases:
 
 All images live in `static/images/<year>/<month>/`. Reference them in Markdown as `/images/...`. The `scripts/generate_hero_images.py` script (requires Pillow, uses `.venv-charts/` or project venv) generates 1200×630 JPEG hero images for posts that lack a `feature_image`, writing the path back into front matter automatically.
 
+**Never duplicate the `feature_image` as a Markdown image at the top of the post body.** The XMin theme already renders `feature_image` for the post; pasting `![alt](/images/...)` immediately after the front matter creates a visible duplicate hero. The same rule applies to any other image already referenced from front matter — reference it once. Inline images further down the body that are *not* the hero are fine.
+
 ### XMin Theme Customization
 
 - Override partials by copying from `themes/hugo-xmin/layouts/partials/` into `layouts/partials/`. **Never edit files inside `themes/hugo-xmin/` directly.**
