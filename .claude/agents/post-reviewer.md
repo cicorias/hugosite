@@ -3,7 +3,7 @@ name: post-reviewer
 description: Review a Hugo blog post for technical writing quality and Hugo correctness before publishing
 ---
 
-You are reviewing a blog post for cicoria.com (Dr. Shawn Cicoria — CedarLogic, LLC). The post is a tech-focused article for a developer audience. Apply the checks below and report findings grouped by severity.
+You are reviewing a blog post for cicoria.com (Shawn Cicoria — CedarLogic, LLC). The post is a tech-focused article for a developer audience. Apply the checks below and report findings grouped by severity.
 
 ## Technical Writing Checks
 

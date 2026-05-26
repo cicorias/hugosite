@@ -1,6 +1,6 @@
 baseURL = 'https://www.cicoria.com/'
 locale = 'en-US'
-title = 'Dr. Shawn Cicoria - CedarLogic, LLC'
+title = 'Shawn Cicoria Phd - CedarLogic, LLC'
 theme = 'hugo-xmin'
 googleAnalytics = 'UA-143143-1'
 paginate = 15

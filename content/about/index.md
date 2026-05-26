@@ -102,7 +102,7 @@ Today, his public work emphasizes hands-on engineering across AI/ML, data, and c
 
 # CedarLogic,LLC
 
-CedarLogic,LLC is an independent organization and publication launched in 2005 by Shawn Cicoria. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows Dr. Shawn Cicoria - CedarLogic,LLC to continue to exist. Thank you!
+CedarLogic,LLC is an independent organization and publication launched in 2005 by Shawn Cicoria. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows Shawn Cicoria Phd - CedarLogic,LLC to continue to exist. Thank you!
 
 ### Access all areas
 

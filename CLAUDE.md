@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Hugo static site for **cicoria.com** (Dr. Shawn Cicoria — CedarLogic, LLC), migrated from Ghost 6.19. Uses the **XMin** theme (git submodule at `themes/hugo-xmin/`). Deployed to GitHub Pages via Actions on push to `main`.
+Hugo static site for **cicoria.com** (Shawn Cicoria — CedarLogic, LLC), migrated from Ghost 6.19. Uses the **XMin** theme (git submodule at `themes/hugo-xmin/`). Deployed to GitHub Pages via Actions on push to `main`.
 
 Hugo version: **0.161.0 extended**. Search is powered by Pagefind (indexed post-build via `npx pagefind --site public`).
 
