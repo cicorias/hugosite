@@ -3,7 +3,7 @@ title: "Metering the Agent: A Copilot CLI Canvas Extension for Token Usage and T
 date: 2026-07-30T21:55:00-04:00
 draft: false
 slug: "metering-the-agent-a-copilot-cli-canvas-extension-for-token-usage"
-tags: ["ai", "generative-ai", "copilot", "tokenomics", "coding-agents", "opentelemetry", "telemetry", "cost"]
+tags: ["ai", "generative-ai", "copilot", "tokenomics", "coding-agents", "opentelemetry", "telemetry", "cost", "aspire", "containers"]
 summary: "I built a GitHub Copilot CLI canvas extension that tracks token usage, AI units, and estimated cost per session — with an editable rate card. Here's how it works, the constraints that shaped it, and where it's headed: automated rate pulls and EMU-vs-public pricing."
 feature_image: "/images/2026/07/metering-the-agent-hero.jpg"
 aliases:
@@ -34,13 +34,11 @@ A **canvas** in Copilot is an interactive HTML surface that lives beside the cha
 
 ![The Rate card tab: editable per-model prices and the global USD-per-AIU rate](/images/2026/07/ghtoken-ratecard.png)
 
-**Telemetry** is optional: OpenTelemetry status, the exact env-var snippets to enable it, and ingestion of the OTel file exporter's JSON-lines output for span- and tool-level timing. **Settings**, the fifth tab, turns Copilot's OTel export on for the *next* launch without touching a terminal.
+**Telemetry** is optional: OpenTelemetry status, the exact env-var snippets to enable it, and ingestion of the OTel file exporter's JSON-lines output for span- and tool-level timing. **Settings**, the fifth tab, turns Copilot's OTel export on for the *next* launch without touching a terminal — and now carries a built-in, verified recipe for running a local collector (see below).
 
 ![The Telemetry tab: OpenTelemetry status and copyable configuration snippets](/images/2026/07/ghtoken-otel.png)
 
 Those screenshots are a **fresh, unpriced install** — note the `$0.0000` cost columns, the red *USD per AIU not set* pill, and the *unpriced* markers on every model. That is the intended out-of-box state, not a bug: no list prices ship with the extension, so the cost columns stay honestly empty until you supply your own. They also predate the Settings tab, which is why only four tabs appear.
-
-The summary bar carries the numbers that matter — model calls after deduplication, token buckets, AI units, and a provenance strip telling you how many rows came from the store versus live capture, and whether anything is unpriced. A green dot means the Server-Sent Events stream is live and the view updates as calls complete. are a **fresh, unpriced install** — note the `$0.0000` cost columns, the red *USD per AIU not set* pill, and the *unpriced* markers on every model. That is the intended out-of-box state, not a bug: no list prices ship with the extension, so the cost columns stay honestly empty until you supply your own. They also predate the Settings tab, which is why only four tabs appear.
 
 The summary bar carries the numbers that matter — model calls after deduplication, token buckets, AI units, and a provenance strip telling you how many rows came from the store versus live capture, and whether anything is unpriced. A green dot means the Server-Sent Events stream is live and the view updates as calls complete.
 
@@ -108,7 +106,35 @@ The first two are merged and deduplicated on the tuple that uniquely identifies 
 
 The Telemetry tab *reports* your OTLP collector configuration but deliberately does **not** ingest from a collector endpoint. Pulling from a collector would require a receiver process outliving every session, for data the local stores already provide. So the extension ingests the **file exporter** instead — JSON-lines on disk, tail-read so a large log stays fast, no daemon to babysit.
 
-One sharp edge worth knowing: Copilot **disables OTLP export over cleartext `http://`** — including the default `http://localhost:4318` — rather than sending telemetry unencrypted, and only logs a warning. If your collector shows no data, that's why. Use an `https://` endpoint or the file exporter.
+One sharp edge worth knowing: Copilot **disables OTLP export over cleartext `http://`** — including the default `http://localhost:4318` — rather than sending telemetry unencrypted. And it does not fail loudly. It turns the exporter off and writes a warning to `$COPILOT_HOME/logs`, which is suppressed entirely at `--log-level error`. So the standard collector quickstart *looks* like it's working while silently dropping every span. If your collector shows no data, that's almost certainly why.
+
+### Making a local collector actually work
+
+"Use an `https://` endpoint" is easy to write and annoying to do, so the repo now ships a working recipe in [`examples/otel/`](https://github.com/cicorias/gh-app-canvas-token-usage/tree/main/examples/otel): a [.NET Aspire dashboard](https://aspire.dev/dashboard/standalone/) behind TLS, as a Compose file with bash and PowerShell wrappers. With [mise](https://mise.jdx.dev) it's one command on any platform:
+
+```sh
+mise run start        # certificates, dashboard over TLS, and a real test span
+mise run otel:down    # stop
+```
+
+Then point Copilot at it and **restart** — the OTLP variables are read once at process start:
+
+```sh
+OTEL_EXPORTER_OTLP_ENDPOINT=https://localhost:4318
+OTEL_EXPORTER_OTLP_PROTOCOL=http/protobuf
+OTEL_EXPORTER_OTLP_CERTIFICATE=<cert-dir>/ca.crt
+```
+
+Getting there cost real debugging time, and the findings are the genuinely useful part:
+
+- **A single self-signed certificate does not work.** Copilot's TLS stack rejects a CA certificate presented as the server's own leaf, and all you get is `[rust:otel] HTTP export failed: network error`. You need a proper two-certificate chain where a CA signs a leaf.
+- **`NODE_EXTRA_CA_CERTS` has no effect.** The exporter's transport is native **Rust**, not Node, so the usual Node escape hatch does nothing. Use `OTEL_EXPORTER_OTLP_CERTIFICATE`.
+- **The leaf needs an Authority Key Identifier.** Copilot tolerates its absence, but OpenSSL 3 clients — including anything using Python's `ssl` — reject the chain with `certificate verify failed: Missing Authority Key Identifier`. Tolerant consumers hide bugs that stricter ones expose.
+- **macOS ships LibreSSL, not OpenSSL**, so `openssl x509 -ext` doesn't exist there and the scripts stick to portable invocations.
+
+That third point has a nice moral. The repo includes `verify-otlp.py`, a [PEP 723](https://peps.python.org/pep-0723/) script (dependencies declared inline, `uv` resolves them into a throwaway environment) that sends one real span end to end. It exists because **the OpenTelemetry SDK swallows export failures by default** — so the script captures the SDK's warning log specifically to tell success apart from silence. Being stricter than Copilot is the feature: it's what caught the missing Authority Key Identifier.
+
+There's a theme here connecting the OTLP behavior, the SDK's swallowed errors, and the blank-tab bug below: **silent failure is the enemy**. Every one of these cost time precisely because something chose to say nothing.
 
 ### macOS launch environment, the annoying detail
 
@@ -227,6 +253,7 @@ A few directions I'm considering, in rough priority:
 - **Export.** CSV/JSON export of the session and model rollups for anyone who wants to pivot this in a spreadsheet or feed it to their own dashboard.
 - **A CI gate.** The `--dry-run` diff from the rate-card importer could run in CI and fail when public prices drift, turning a silent staleness problem into a reviewable pull request.
 - **Long-context tier support.** The known gap — teach the matcher a context threshold so tiered OpenAI/Google/xAI models price correctly per call instead of approximating.
+- **Span-level cost attribution.** Now that a local collector is a one-command affair, joining OTel spans to usage rows would answer "which *tool* cost me the most," not just which model — the time dimension and the money dimension on one axis.
 
 ## Watch the meter
 
